@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.db
+*.sqlite
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache/
+.pyre/
+
+# --- Виртуальные окружения ---
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Настройки приложения (локальные) ---
+settings.json
+.vscode/
+.idea/
+
+# --- Системные файлы ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Сборка мобильных приложений (Kivy/Buildozer) ---
+.buildozer/
+bin/
+*.spec
+
+# --- ВАЖНО: Мы НЕ игнорируем data.json, так как он нужен для парсера на GitHub ---
+!data.json

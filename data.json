@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Python",
+    "category": "Программирование",
+    "content": "Python - высокоуровневый язык программирования общего назначения. Отличается простым и понятным синтаксисом, что делает его идеальным для начинающих.",
+    "date": "2026-01-19"
+  },
+  {
+    "id": 2,
+    "title": "Kivy",
+    "category": "Framework",
+    "content": "Kivy - фреймворк для создания мультиплатформенных приложений на Python. Позволяет разрабатывать приложения для Windows, Linux, macOS, Android и iOS.",
+    "date": "2026-01-19"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Object Notation(JSON)",
+    "category": "Форматы данных",
+    "content": "JSON (JavaScript Object Notation) - текстовый формат обмена данными, основанный на JavaScript. Легко читается человеком и машиной.",
+    "date": "2026-01-19"
+  },
+  {
+    "id": 4,
+    "title": "HyperText Markup Language(HTML)",
+    "category": "Программирование",
+    "content": "Hypertext Markup Language (HTML) is the standard markup language[a] for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.",
+    "date": "2026-01-26"
+  }
+]
