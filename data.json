@@ -26,5 +26,145 @@
     "category": "Программирование",
     "content": "Hypertext Markup Language (HTML) is the standard markup language[a] for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.",
     "date": "2026-01-26"
+  },
+  {
+    "title": "Departing the Python Software Foundation (Staff)",
+    "category": "Язык Программирование",
+    "content": "Новость с официального блога Python. Ссылка: https://pyfound.blogspot.com/2026/01/ee-departing-the-psf-staff.html",
+    "date": "2026-01-21",
+    "id": 5
+  },
+  {
+    "title": "Announcing Python Software Foundation Fellow Members for Q4 2025! 🎉",
+    "category": "Язык Программирование",
+    "content": "Новость с официального блога Python. Ссылка: https://pyfound.blogspot.com/2026/01/announcing-python-software-foundation.html",
+    "date": "2026-01-20",
+    "id": 6
+  },
+  {
+    "title": "Python 3.15.0 alpha 5 (yes, another alpha!)",
+    "category": "Язык Программирование",
+    "content": "Новость с официального блога Python. Ссылка: https://pythoninsider.blogspot.com/2026/01/python-3150-alpha-5-yes-another-alpha.html",
+    "date": "2026-01-14",
+    "id": 7
+  },
+  {
+    "title": "Python 3.15.0 alpha 4",
+    "category": "Язык Программирование",
+    "content": "Новость с официального блога Python. Ссылка: https://pythoninsider.blogspot.com/2026/01/python-3150-alpha-4.html",
+    "date": "2026-01-13",
+    "id": 8
+  },
+  {
+    "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
+    "category": "Язык Программирование",
+    "content": "Новость с официального блога Python. Ссылка: https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html",
+    "date": "2026-01-13",
+    "id": 9
+  },
+  {
+    "title": "Celebrities say they are being censored by TikTok after speaking out against ICE",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas",
+    "date": "2026-01-27",
+    "id": 10
+  },
+  {
+    "title": "Heathrow scraps liquid container limit",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.bbc.com/news/articles/c1evvx89559o",
+    "date": "2026-01-27",
+    "id": 11
+  },
+  {
+    "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.kimi.com/blog/kimi-k2-5.html",
+    "date": "2026-01-27",
+    "id": 12
+  },
+  {
+    "title": "A list of fun destinations for telnet",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://telnet.org/htm/places.htm",
+    "date": "2026-01-27",
+    "id": 13
+  },
+  {
+    "title": "The Universal Pattern Popping Up in Math, Physics and Biology",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/",
+    "date": "2026-01-27",
+    "id": 14
+  },
+  {
+    "title": "The hidden engineering of runways",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways",
+    "date": "2026-01-27",
+    "id": 15
+  },
+  {
+    "title": "Apple introduces new AirTag with longer range and improved findability",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+    "date": "2026-01-27",
+    "id": 16
+  },
+  {
+    "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+    "date": "2026-01-27",
+    "id": 17
+  },
+  {
+    "title": "Is OpenAI Dead Yet?",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://isopenaideadyet.com/",
+    "date": "2026-01-27",
+    "id": 18
+  },
+  {
+    "title": "There is an AI code review bubble",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.greptile.com/blog/ai-code-review-bubble",
+    "date": "2026-01-27",
+    "id": 19
+  },
+  {
+    "title": "AI code and software craft",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://alexwennerberg.com/blog/2026-01-25-slop.html",
+    "date": "2026-01-27",
+    "id": 20
+  },
+  {
+    "title": "Windows 11's Patch Tuesday nightmare gets worse",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot",
+    "date": "2026-01-27",
+    "id": 21
+  },
+  {
+    "title": "Dithering – Part 2: The Ordered Dithering",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://visualrambling.space/dithering-part-2/",
+    "date": "2026-01-27",
+    "id": 22
+  },
+  {
+    "title": "JuiceSSH – Give me my pro features back",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://nproject.io/blog/juicessh-give-me-back-my-pro-features/",
+    "date": "2026-01-27",
+    "id": 23
+  },
+  {
+    "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
+    "category": "Новости IT",
+    "content": "Популярная тема из Hacker News. Ссылка: https://www.bbc.com/news/articles/c20gg729y1yo",
+    "date": "2026-01-27",
+    "id": 24
   }
 ]

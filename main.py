@@ -15,6 +15,8 @@ from kivymd.uix.scrollview import MDScrollView
 from kivymd.uix.label import MDLabel
 from kivymd.uix.menu import MDDropdownMenu
 from kivy.metrics import dp
+from kivy.network.urlrequest import UrlRequest
+from kivy.clock import Clock
 import json
 import os
 from datetime import datetime
@@ -95,6 +97,7 @@ class ReferenceApp(MDApp):
             title="Электронный справочник",
             elevation=3,
             right_action_items=[
+                ["sync", lambda x: self.sync_with_github()],
                 ["filter-variant", lambda x: self.show_category_menu(x)],
                 ["theme-light-dark", lambda x: self.toggle_theme()]
             ]
@@ -321,6 +324,50 @@ class ReferenceApp(MDApp):
         with open(self.data_file, 'w', encoding='utf-8') as f:
             json.dump(self.entries, f, ensure_ascii=False, indent=2)
 
+    def sync_with_github(self):
+        """Синхронизация данных с GitHub"""
+        url = "https://raw.githubusercontent.com/igris2212/project-on-college/refs/heads/main/data.json"
+        
+        # Показываем уведомление о начале загрузки
+        self.show_alert("Синхронизация", "Загрузка обновлений из интернета...")
+        
+        # Добавляем заголовки, чтобы GitHub нас не блокировал
+        headers = {'User-Agent': 'KivyMD-App'}
+        
+        # Выполняем запрос
+        UrlRequest(
+            url, 
+            on_success=self.on_sync_success,
+            on_failure=self.on_sync_error,
+            on_error=self.on_sync_error,
+            req_headers=headers
+        )
+
+    def on_sync_success(self, request, result):
+        """Обработка успешной загрузки"""
+        # Если GitHub вернул строку вместо списка (бывает при некоторых ошибках), попробуем её распарсить
+        if isinstance(result, str):
+            try:
+                result = json.loads(result)
+            except:
+                self.show_alert("Ошибка", "Не удалось прочитать JSON файл")
+                return
+
+        if isinstance(result, list):
+            # Сохраняем скачанные данные
+            self.entries = result
+            self.save_data()
+            self.filtered_entries = self.entries.copy()
+            self.update_entries_list()
+            self.show_alert("Готово", f"Синхронизация завершена! Всего записей: {len(self.entries)}")
+        else:
+            print(f"DEBUG: Получен неожиданный тип данных: {type(result)}")
+            self.show_alert("Ошибка", "Получены данные в неизвестном формате")
+
+    def on_sync_error(self, request, error):
+        """Обработка ошибки загрузки"""
+        self.show_alert("Ошибка", f"Не удалось обновить данные. Проверьте интернет. {error}")
+
     # ------------------------------------------
     # Работа с настройками (Settings)
     # ------------------------------------------
@@ -344,25 +391,42 @@ class ReferenceApp(MDApp):
     # UI Логика и обновление отображения
     # ------------------------------------------
     def update_entries_list(self):
-        """Обновление списка записей"""
+        """Обновление списка записей (оптимизировано)"""
         self.entries_list.clear_widgets()
+        self._load_index = 0
+        self._load_batch(0)
+
+    def _load_batch(self, dt):
+        """Порционная загрузка элементов списка для плавности UI"""
+        batch_size = 20  # Количество элементов за один раз
+        end_index = min(self._load_index + batch_size, len(self.filtered_entries))
         
-        for entry in self.filtered_entries:
+        for i in range(self._load_index, end_index):
+            entry = self.filtered_entries[i]
             item = TwoLineAvatarIconListItem(
                 text=entry['title'],
                 secondary_text=entry['category'],
                 on_release=lambda x, e=entry: self.open_detail_screen(e)
             )
-            
             icon = IconLeftWidget(icon="book-open-variant")
             item.add_widget(icon)
-            
             self.entries_list.add_widget(item)
+            
+        self._load_index = end_index
+        # Если остались еще элементы, планируем следующую порцию
+        if self._load_index < len(self.filtered_entries):
+            Clock.schedule_once(self._load_batch, 0.05)
     
     def on_search_text(self, instance, value):
-        """Поиск по записям"""
-        search_text = value.lower()
-        
+        """Поиск по записям с задержкой (Debounce)"""
+        # Отменяем предыдущий запланированный поиск
+        Clock.unschedule(self._perform_search)
+        # Планируем новый поиск через 300мс
+        Clock.schedule_once(lambda dt: self._perform_search(value), 0.3)
+
+    def _perform_search(self, search_text):
+        """Фактическая логика поиска"""
+        search_text = search_text.lower()
         if not search_text:
             self.filtered_entries = [e for e in self.entries if self.current_category == "Все" or e['category'] == self.current_category]
         else:
@@ -371,7 +435,6 @@ class ReferenceApp(MDApp):
                 if (self.current_category == "Все" or e['category'] == self.current_category)
                 and (search_text in e['title'].lower() or search_text in e['content'].lower())
             ]
-        
         self.update_entries_list()
     
     def show_category_menu(self, caller):
