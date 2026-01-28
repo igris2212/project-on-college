@@ -166,5 +166,75 @@
     "content": "Популярная тема из Hacker News. Ссылка: https://www.bbc.com/news/articles/c20gg729y1yo",
     "date": "2026-01-27",
     "id": 24
+  },
+  {
+    "title": "There's only one Woz, but we can all learn from him",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
+    "date": "2026-01-28",
+    "id": 25
+  },
+  {
+    "title": "Prism",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/introducing-prism",
+    "date": "2026-01-28",
+    "id": 26
+  },
+  {
+    "title": "A few random notes from Claude coding quite a bit last few weeks",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://twitter.com/karpathy/status/2015883857489522876",
+    "date": "2026-01-28",
+    "id": 27
+  },
+  {
+    "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
+    "date": "2026-01-28",
+    "id": 28
+  },
+  {
+    "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+    "date": "2026-01-28",
+    "id": 29
+  },
+  {
+    "title": "SVG Path Editor",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://yqnn.github.io/svg-path-editor/",
+    "date": "2026-01-28",
+    "id": 30
+  },
+  {
+    "title": "Rust’s Standard Library on the GPU",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.vectorware.com/blog/rust-std-on-gpu/",
+    "date": "2026-01-28",
+    "id": 31
+  },
+  {
+    "title": "Doing the thing is doing the thing",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+    "date": "2026-01-28",
+    "id": 32
+  },
+  {
+    "title": "Parametric CAD in Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://campedersen.com/vcad",
+    "date": "2026-01-28",
+    "id": 33
+  },
+  {
+    "title": "Lennart Poettering, Christian Brauner founded a new company",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://amutable.com/about",
+    "date": "2026-01-28",
+    "id": 34
   }
 ]
