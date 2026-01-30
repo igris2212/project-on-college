@@ -306,5 +306,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ciechanow.ski/airfoil/",
     "date": "2026-01-29",
     "id": 44
+  },
+  {
+    "title": "Moltbook",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.moltbook.com/",
+    "date": "2026-01-30",
+    "id": 45
+  },
+  {
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openclaw.ai/blog/introducing-openclaw",
+    "date": "2026-01-30",
+    "id": 46
+  },
+  {
+    "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://grid.space/stem/",
+    "date": "2026-01-30",
+    "id": 47
+  },
+  {
+    "title": "Anthropic: AI Coding shows no productivity gains; impairs skill development",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2601.20245",
+    "date": "2026-01-30",
+    "id": 48
+  },
+  {
+    "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+    "date": "2026-01-30",
+    "id": 49
+  },
+  {
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+    "date": "2026-01-30",
+    "id": 50
+  },
+  {
+    "title": "The Dank Case for Scrolling Window Managers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/",
+    "date": "2026-01-30",
+    "id": 51
+  },
+  {
+    "title": "Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9",
+    "date": "2026-01-30",
+    "id": 52
+  },
+  {
+    "title": "Claude Code daily benchmarks for degradation tracking",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://marginlab.ai/trackers/claude-code/",
+    "date": "2026-01-30",
+    "id": 53
+  },
+  {
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "date": "2026-01-30",
+    "id": 54
   }
 ]
