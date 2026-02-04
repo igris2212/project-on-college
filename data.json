@@ -649,5 +649,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.spacex.com/updates#xai-joins-spacex",
     "date": "2026-02-03",
     "id": 93
+  },
+  {
+    "title": "Your Python. Your Voice. Join the Python Developers Survey 2026!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/01/your-python-your-voice-join-python.html",
+    "date": "2026-01-26",
+    "id": 94
+  },
+  {
+    "title": "I miss thinking hard",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.jernesto.com/articles/thinking_hard",
+    "date": "2026-02-04",
+    "id": 95
+  },
+  {
+    "title": "Lessons learned shipping 500 units of my first hardware product",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.simonberens.com/p/lessons-learned-shipping-500-units",
+    "date": "2026-02-04",
+    "id": 96
+  },
+  {
+    "title": "Data centers in space makes no sense",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://civai.org/blog/space-data-centers",
+    "date": "2026-02-04",
+    "id": 97
+  },
+  {
+    "title": "How watercolor brushes are made (2015)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.handprint.com/HP/WCL/brush1.html",
+    "date": "2026-02-04",
+    "id": 98
+  },
+  {
+    "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/puemos/craftplan",
+    "date": "2026-02-04",
+    "id": 99
+  },
+  {
+    "title": "High-Altitude Adventure with a DIY Pico Balloon",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
+    "date": "2026-02-04",
+    "id": 100
+  },
+  {
+    "title": "Deno Sandbox",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://deno.com/blog/introducing-deno-sandbox",
+    "date": "2026-02-04",
+    "id": 101
+  },
+  {
+    "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
+    "date": "2026-02-04",
+    "id": 102
+  },
+  {
+    "title": "Agent Skills",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://agentskills.io/home",
+    "date": "2026-02-04",
+    "id": 103
+  },
+  {
+    "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+    "date": "2026-02-04",
+    "id": 104
   }
 ]
