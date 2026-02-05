@@ -726,5 +726,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
     "date": "2026-02-04",
     "id": 104
+  },
+  {
+    "title": "Don't rent the cloud, own instead",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.comma.ai/datacenter/",
+    "date": "2026-02-05",
+    "id": 105
+  },
+  {
+    "title": "When internal hostnames are leaked to the clown",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://rachelbythebay.com/w/2026/02/03/badnas/",
+    "date": "2026-02-05",
+    "id": 106
+  },
+  {
+    "title": "Modernizing Linux swapping: introducing the swap table",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/",
+    "date": "2026-02-05",
+    "id": 107
+  },
+  {
+    "title": "Wirth's Revenge",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jmoiron.net/blog/wirths-revenge/",
+    "date": "2026-02-05",
+    "id": 108
+  },
+  {
+    "title": "Adobe Animate will be discontinued effective March 1, 2026",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://helpx.adobe.com/uk/animate/kb/end-of-life.html",
+    "date": "2026-02-05",
+    "id": 109
+  },
+  {
+    "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sqldef.github.io/",
+    "date": "2026-02-05",
+    "id": 110
+  },
+  {
+    "title": "Postgres Postmaster does not scale",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+    "date": "2026-02-05",
+    "id": 111
+  },
+  {
+    "title": "A few CPU hardware bugs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.taricorp.net/2026/a-few-cpu-bugs/",
+    "date": "2026-02-05",
+    "id": 112
+  },
+  {
+    "title": "Claude Code: connect to a local model when your quota runs out",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+    "date": "2026-02-05",
+    "id": 113
+  },
+  {
+    "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
+    "date": "2026-02-05",
+    "id": 114
   }
 ]
