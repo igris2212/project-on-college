@@ -796,5 +796,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
     "date": "2026-02-05",
     "id": 114
+  },
+  {
+    "title": "Claude Opus 4.6",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/claude-opus-4-6",
+    "date": "2026-02-06",
+    "id": 115
+  },
+  {
+    "title": "Things Unix can do atomically (2010)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+    "date": "2026-02-06",
+    "id": 116
+  },
+  {
+    "title": "Systems Thinking",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+    "date": "2026-02-06",
+    "id": 117
+  },
+  {
+    "title": "GPT-5.3-Codex",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/introducing-gpt-5-3-codex/",
+    "date": "2026-02-06",
+    "id": 118
+  },
+  {
+    "title": "My AI Adoption Journey",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mitchellh.com/writing/my-ai-adoption-journey",
+    "date": "2026-02-06",
+    "id": 119
+  },
+  {
+    "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/artifact-keeper",
+    "date": "2026-02-06",
+    "id": 120
+  },
+  {
+    "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/engineering/building-c-compiler",
+    "date": "2026-02-06",
+    "id": 121
+  },
+  {
+    "title": "How to carry more than your own bodyweight (2025)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight",
+    "date": "2026-02-06",
+    "id": 122
+  },
+  {
+    "title": "Recreating Epstein PDFs from raw encoded attachments",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
+    "date": "2026-02-06",
+    "id": 123
+  },
+  {
+    "title": "Stay Away from My Trash",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tldraw.dev/blog/stay-away-from-my-trash",
+    "date": "2026-02-06",
+    "id": 124
   }
 ]
