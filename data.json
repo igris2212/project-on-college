@@ -866,5 +866,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tldraw.dev/blog/stay-away-from-my-trash",
     "date": "2026-02-06",
     "id": 124
+  },
+  {
+    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openciv3.org/",
+    "date": "2026-02-07",
+    "id": 125
+  },
+  {
+    "title": "The Waymo World Model",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+    "date": "2026-02-07",
+    "id": 126
+  },
+  {
+    "title": "How we made geo joins 400× faster with H3 indexes",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes",
+    "date": "2026-02-07",
+    "id": 127
+  },
+  {
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/valdanylchuk/breezydemo",
+    "date": "2026-02-07",
+    "id": 128
+  },
+  {
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/pydantic/monty",
+    "date": "2026-02-07",
+    "id": 129
+  },
+  {
+    "title": "Unseen Footage of Atari Battlezone Arcade Cabinet Production",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/",
+    "date": "2026-02-07",
+    "id": 130
+  },
+  {
+    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://vecti.com",
+    "date": "2026-02-07",
+    "id": 131
+  },
+  {
+    "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/microsoft/litebox",
+    "date": "2026-02-07",
+    "id": 132
+  },
+  {
+    "title": "Dark Alley Mathematics",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.szczepan.org/blog/three-points/",
+    "date": "2026-02-07",
+    "id": 133
+  },
+  {
+    "title": "Sheldon Brown's Bicycle Technical Info",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.sheldonbrown.com/",
+    "date": "2026-02-07",
+    "id": 134
   }
 ]
