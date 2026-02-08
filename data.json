@@ -936,5 +936,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.sheldonbrown.com/",
     "date": "2026-02-07",
     "id": 134
+  },
+  {
+    "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/localgpt-app/localgpt",
+    "date": "2026-02-08",
+    "id": 135
+  },
+  {
+    "title": "Turning books to courses using AI",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.book2course.org/",
+    "date": "2026-02-08",
+    "id": 136
+  },
+  {
+    "title": "Haskell for all: Beyond agentic coding",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://haskellforall.com/2026/02/beyond-agentic-coding",
+    "date": "2026-02-08",
+    "id": 137
+  },
+  {
+    "title": "SectorC: A C Compiler in 512 bytes (2023)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://xorvoid.com/sectorc.html",
+    "date": "2026-02-08",
+    "id": 138
+  },
+  {
+    "title": "Software factories and the agentic moment",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://factory.strongdm.ai/",
+    "date": "2026-02-08",
+    "id": 139
+  },
+  {
+    "title": "LLMs as the new high level language",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://federicopereiro.com/llm-high/",
+    "date": "2026-02-08",
+    "id": 140
+  },
+  {
+    "title": "Speed up responses with fast mode",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://code.claude.com/docs/en/fast-mode",
+    "date": "2026-02-08",
+    "id": 141
+  },
+  {
+    "title": "LineageOS 23.2",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lineageos.org/Changelog-31/",
+    "date": "2026-02-08",
+    "id": 142
+  },
+  {
+    "title": "The Architecture of Open Source Applications (Volume 1) Berkeley DB",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://aosabook.org/en/v1/bdb.html",
+    "date": "2026-02-08",
+    "id": 143
+  },
+  {
+    "title": "Hoot: Scheme on WebAssembly",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.spritely.institute/hoot/",
+    "date": "2026-02-08",
+    "id": 144
   }
 ]
