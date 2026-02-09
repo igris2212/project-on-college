@@ -1006,5 +1006,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.spritely.institute/hoot/",
     "date": "2026-02-08",
     "id": 144
+  },
+  {
+    "title": "Art of Roads in Games",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sandboxspirit.com/blog/art-of-roads-in-games/",
+    "date": "2026-02-09",
+    "id": 145
+  },
+  {
+    "title": "Vouch",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/mitchellh/vouch",
+    "date": "2026-02-09",
+    "id": 146
+  },
+  {
+    "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/naver/lispe",
+    "date": "2026-02-09",
+    "id": 147
+  },
+  {
+    "title": "Clean Coder: The Dark Path (2017)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html",
+    "date": "2026-02-09",
+    "id": 148
+  },
+  {
+    "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bobbiec.github.io/cistercian-font.html",
+    "date": "2026-02-09",
+    "id": 149
+  },
+  {
+    "title": "Every book recommended on the Odd Lots Discord",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://odd-lots-books.netlify.app/",
+    "date": "2026-02-09",
+    "id": 150
+  },
+  {
+    "title": "More Mac malware from Google search",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+    "date": "2026-02-09",
+    "id": 151
+  },
+  {
+    "title": "Apple XNU: Clutch Scheduler",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+    "date": "2026-02-09",
+    "id": 152
+  },
+  {
+    "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://underhillgame.com/",
+    "date": "2026-02-09",
+    "id": 153
+  },
+  {
+    "title": "Ask HN: What are you working on? (February 2026)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: item?id=46937696",
+    "date": "2026-02-09",
+    "id": 154
   }
 ]
