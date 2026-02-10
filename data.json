@@ -1076,5 +1076,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: item?id=46937696",
     "date": "2026-02-09",
     "id": 154
+  },
+  {
+    "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2512.20798",
+    "date": "2026-02-10",
+    "id": 155
+  },
+  {
+    "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://qwen.ai/blog?id=qwen-image-2.0",
+    "date": "2026-02-10",
+    "id": 156
+  },
+  {
+    "title": "Discord will require a face scan or ID for full access next month",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+    "date": "2026-02-10",
+    "id": 157
+  },
+  {
+    "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/TrevorS/voxtral-mini-realtime-rs",
+    "date": "2026-02-10",
+    "id": 158
+  },
+  {
+    "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/antirez/voxtral.c",
+    "date": "2026-02-10",
+    "id": 159
+  },
+  {
+    "title": "Why is the sky blue?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://explainers.blog/posts/why-is-the-sky-blue/",
+    "date": "2026-02-10",
+    "id": 160
+  },
+  {
+    "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+    "date": "2026-02-10",
+    "id": 161
+  },
+  {
+    "title": "Discord Alternatives, Ranked",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://taggart-tech.com/discord-alternatives/",
+    "date": "2026-02-10",
+    "id": 162
+  },
+  {
+    "title": "Hard-braking events as indicators of road segment crash risk",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+    "date": "2026-02-10",
+    "id": 163
+  },
+  {
+    "title": "Is particle physics dead, dying, or just hard?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+    "date": "2026-02-10",
+    "id": 164
   }
 ]
