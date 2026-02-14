@@ -1300,5 +1300,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://maxhalford.github.io/blog/text-classification-zstd/",
     "date": "2026-02-12",
     "id": 186
+  },
+  {
+    "title": "Python 3.15.0 alpha 6",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pythoninsider.blogspot.com/2026/02/python-3150-alpha-6.html",
+    "date": "2026-02-11",
+    "id": 187
+  },
+  {
+    "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/mickamy/sql-tap",
+    "date": "2026-02-14",
+    "id": 188
+  },
+  {
+    "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.wallstreetraider.com/story.html",
+    "date": "2026-02-14",
+    "id": 189
+  },
+  {
+    "title": "Understanding the Go Compiler: The Linker",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://internals-for-interns.com/posts/the-go-linker/",
+    "date": "2026-02-14",
+    "id": 190
+  },
+  {
+    "title": "The Three Year Myth",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://green.spacedino.net/the-three-year-myth/",
+    "date": "2026-02-14",
+    "id": 191
+  },
+  {
+    "title": "NPMX – a fast, modern browser for the NPM registry",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://npmx.dev",
+    "date": "2026-02-14",
+    "id": 192
+  },
+  {
+    "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+    "date": "2026-02-14",
+    "id": 193
+  },
+  {
+    "title": "Do Not Outsource Judgement",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9",
+    "date": "2026-02-14",
+    "id": 194
+  },
+  {
+    "title": "Cogram (YC W22) – Hiring former technical founders",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
+    "date": "2026-02-14",
+    "id": 195
+  },
+  {
+    "title": "Common Lisp Screenshots: today's CL applications in action",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://www.lisp-screenshots.org",
+    "date": "2026-02-14",
+    "id": 196
+  },
+  {
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/new-result-theoretical-physics/",
+    "date": "2026-02-14",
+    "id": 197
   }
 ]
