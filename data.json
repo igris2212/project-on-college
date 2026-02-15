@@ -1377,5 +1377,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/new-result-theoretical-physics/",
     "date": "2026-02-14",
     "id": 197
+  },
+  {
+    "title": "I love the work of the ArchWiki maintainers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+    "date": "2026-02-15",
+    "id": 198
+  },
+  {
+    "title": "Flashpoint Archive – Over 200k web games and animations preserved",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://flashpointarchive.org",
+    "date": "2026-02-15",
+    "id": 199
+  },
+  {
+    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+    "date": "2026-02-15",
+    "id": 200
+  },
+  {
+    "title": "Show HN: DocSync – Git hooks that block commits with stale documentation",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/suhteevah/docsync",
+    "date": "2026-02-15",
+    "id": 201
+  },
+  {
+    "title": "Zvec: A lightweight, fast, in-process vector database",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/alibaba/zvec",
+    "date": "2026-02-15",
+    "id": 202
+  },
+  {
+    "title": "Instagram's URL Blackhole",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
+    "date": "2026-02-15",
+    "id": 203
+  },
+  {
+    "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
+    "date": "2026-02-15",
+    "id": 204
+  },
+  {
+    "title": "I'm building a clarity-first language (compiles to C++)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/taman-islam/rox",
+    "date": "2026-02-15",
+    "id": 205
+  },
+  {
+    "title": "uBlock filter list to hide all YouTube Shorts",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/i5heu/ublock-hide-yt-shorts/",
+    "date": "2026-02-15",
+    "id": 206
+  },
+  {
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "date": "2026-02-15",
+    "id": 207
   }
 ]
