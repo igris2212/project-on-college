@@ -1447,5 +1447,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
     "date": "2026-02-15",
     "id": 207
+  },
+  {
+    "title": "I’m joining OpenAI",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://steipete.me/posts/2026/openclaw",
+    "date": "2026-02-16",
+    "id": 208
+  },
+  {
+    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mastodon.world/@knowmadd/116072773118828295",
+    "date": "2026-02-16",
+    "id": 209
+  },
+  {
+    "title": "Building SQLite with a small swarm",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+    "date": "2026-02-16",
+    "id": 210
+  },
+  {
+    "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+    "date": "2026-02-16",
+    "id": 211
+  },
+  {
+    "title": "picol: A Tcl interpreter in 500 lines of code",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/antirez/picol",
+    "date": "2026-02-16",
+    "id": 212
+  },
+  {
+    "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.exe.dev/expensively-quadratic",
+    "date": "2026-02-16",
+    "id": 213
+  },
+  {
+    "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://modern-css.com",
+    "date": "2026-02-16",
+    "id": 214
+  },
+  {
+    "title": "Arm wants a bigger slice of the chip business",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+    "date": "2026-02-16",
+    "id": 215
+  },
+  {
+    "title": "1,300-year-old world chronicle unearthed in Sinai",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+    "date": "2026-02-16",
+    "id": 216
+  },
+  {
+    "title": "Lost Soviet Moon Lander May Have Been Found",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
+    "date": "2026-02-16",
+    "id": 217
   }
 ]
