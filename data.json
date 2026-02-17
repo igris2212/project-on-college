@@ -1517,5 +1517,89 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
     "date": "2026-02-16",
     "id": 217
+  },
+  {
+    "title": "Join the Python Security Response Team!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pythoninsider.blogspot.com/2026/02/join-the-python-security-response-team.html",
+    "date": "2026-02-17",
+    "id": 218
+  },
+  {
+    "title": "Python is for Everyone: Inside the PSF's D&I Work Group",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/02/python-is-for-everyone-inside-psfs-d.html",
+    "date": "2026-02-12",
+    "id": 219
+  },
+  {
+    "title": "Four Column ASCII (2017)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://garbagecollected.org/2017/01/31/four-column-ascii/",
+    "date": "2026-02-17",
+    "id": 220
+  },
+  {
+    "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+    "date": "2026-02-17",
+    "id": 221
+  },
+  {
+    "title": "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/matt1398/claude-devtools",
+    "date": "2026-02-17",
+    "id": 222
+  },
+  {
+    "title": "Slopware AI: Ship Garbage Even Faster",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://slopware.ai/",
+    "date": "2026-02-17",
+    "id": 223
+  },
+  {
+    "title": "A deep dive into Apple's .car file format",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dbg.re/posts/car-file-format/",
+    "date": "2026-02-17",
+    "id": 224
+  },
+  {
+    "title": "Rise of the Triforce",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+    "date": "2026-02-17",
+    "id": 225
+  },
+  {
+    "title": "Poor Deming never stood a chance",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+    "date": "2026-02-17",
+    "id": 226
+  },
+  {
+    "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2602.11988",
+    "date": "2026-02-17",
+    "id": 227
+  },
+  {
+    "title": "What your Bluetooth devices reveal",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+    "date": "2026-02-17",
+    "id": 228
+  },
+  {
+    "title": "Visual introduction to PyTorch",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://0byte.io/articles/pytorch_introduction.html",
+    "date": "2026-02-17",
+    "id": 229
   }
 ]
