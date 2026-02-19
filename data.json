@@ -1671,5 +1671,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://asteroidos.org/news/2-0-release/index.html",
     "date": "2026-02-18",
     "id": 239
+  },
+  {
+    "title": "Sizing chaos",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://pudding.cool/2026/02/womens-sizing/",
+    "date": "2026-02-19",
+    "id": 240
+  },
+  {
+    "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+    "date": "2026-02-19",
+    "id": 241
+  },
+  {
+    "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+    "date": "2026-02-19",
+    "id": 242
+  },
+  {
+    "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://static.stepfun.com/blog/step-3.5-flash/",
+    "date": "2026-02-19",
+    "id": 243
+  },
+  {
+    "title": "Cosmologically Unique IDs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "date": "2026-02-19",
+    "id": 244
+  },
+  {
+    "title": "Anthropic officially bans using subscription auth for third party use",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://code.claude.com/docs/en/legal-and-compliance",
+    "date": "2026-02-19",
+    "id": 245
+  },
+  {
+    "title": "Visualizing the ARM64 Instruction Set (2024)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://zyedidia.github.io/blog/posts/6-arm64/",
+    "date": "2026-02-19",
+    "id": 246
+  },
+  {
+    "title": "Tailscale Peer Relays is now generally available",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tailscale.com/blog/peer-relays-ga",
+    "date": "2026-02-19",
+    "id": 247
+  },
+  {
+    "title": "How to choose between Hindley-Milner and bidirectional typing",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+    "date": "2026-02-19",
+    "id": 248
+  },
+  {
+    "title": "How AI is affecting productivity and jobs in Europe",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+    "date": "2026-02-19",
+    "id": 249
   }
 ]
