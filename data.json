@@ -1741,5 +1741,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
     "date": "2026-02-19",
     "id": 249
+  },
+  {
+    "title": "Defer available in gcc and clang",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+    "date": "2026-02-20",
+    "id": 250
+  },
+  {
+    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.together.ai/blog/consistency-diffusion-language-models",
+    "date": "2026-02-20",
+    "id": 251
+  },
+  {
+    "title": "Gemini 3.1 Pro",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+    "date": "2026-02-20",
+    "id": 252
+  },
+  {
+    "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/olvvier/apple-silicon-accelerometer",
+    "date": "2026-02-20",
+    "id": 253
+  },
+  {
+    "title": "Pi for Excel: AI sidebar add-in for Excel",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/tmustier/pi-for-excel",
+    "date": "2026-02-20",
+    "id": 254
+  },
+  {
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "date": "2026-02-20",
+    "id": 255
+  },
+  {
+    "title": "Show HN: Micasa – track your house from the terminal",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://micasa.dev",
+    "date": "2026-02-20",
+    "id": 256
+  },
+  {
+    "title": "FreeCAD",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.freecad.org/index.php",
+    "date": "2026-02-20",
+    "id": 257
+  },
+  {
+    "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+    "date": "2026-02-20",
+    "id": 258
+  },
+  {
+    "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+    "date": "2026-02-20",
+    "id": 259
   }
 ]
