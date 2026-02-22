@@ -1881,5 +1881,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
     "date": "2026-02-21",
     "id": 269
+  },
+  {
+    "title": "How I use Claude Code: Separation of planning and execution",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://boristane.com/blog/how-i-use-claude-code/",
+    "date": "2026-02-22",
+    "id": 270
+  },
+  {
+    "title": "Japanese Woodblock Print Search",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ukiyo-e.org/",
+    "date": "2026-02-22",
+    "id": 271
+  },
+  {
+    "title": "A Botnet Accidentally Destroyed I2P",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+    "date": "2026-02-22",
+    "id": 272
+  },
+  {
+    "title": "How Taalas \"prints\" LLM onto a chip?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anuragk.com/blog/posts/Taalas.html",
+    "date": "2026-02-22",
+    "id": 273
+  },
+  {
+    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/xaskasdf/ntransformer",
+    "date": "2026-02-22",
+    "id": 274
+  },
+  {
+    "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+    "date": "2026-02-22",
+    "id": 275
+  },
+  {
+    "title": "How far back in time can you understand English?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+    "date": "2026-02-22",
+    "id": 276
+  },
+  {
+    "title": "Gamedate – A site to revive dead multiplayer games",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gamedate.org/",
+    "date": "2026-02-22",
+    "id": 277
+  },
+  {
+    "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.science.org/doi/10.1126/science.adq7188",
+    "date": "2026-02-22",
+    "id": 278
+  },
+  {
+    "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+    "date": "2026-02-22",
+    "id": 279
   }
 ]
