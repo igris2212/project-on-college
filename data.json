@@ -2231,5 +2231,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/",
     "date": "2026-02-26",
     "id": 319
+  },
+  {
+    "title": "Statement from Dario Amodei on our discussions with the Department of War",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/statement-department-of-war",
+    "date": "2026-02-27",
+    "id": 320
+  },
+  {
+    "title": "The Hunt for Dark Breakfast",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+    "date": "2026-02-27",
+    "id": 321
+  },
+  {
+    "title": "Julia: Performance Tips",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://docs.julialang.org/en/v1/manual/performance-tips/",
+    "date": "2026-02-27",
+    "id": 322
+  },
+  {
+    "title": "What Claude Code chooses",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://amplifying.ai/research/claude-code-picks",
+    "date": "2026-02-27",
+    "id": 323
+  },
+  {
+    "title": "80386 Protection",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nand2mario.github.io/posts/2026/80386_protection/",
+    "date": "2026-02-27",
+    "id": 324
+  },
+  {
+    "title": "Layoffs at Block",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://twitter.com/jack/status/2027129697092731343",
+    "date": "2026-02-27",
+    "id": 325
+  },
+  {
+    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+    "date": "2026-02-27",
+    "id": 326
+  },
+  {
+    "title": "What does \" 2>&1 \" mean?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://stackoverflow.com/questions/818255/what-does-21-mean",
+    "date": "2026-02-27",
+    "id": 327
+  },
+  {
+    "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/Frikallo/parakeet.cpp",
+    "date": "2026-02-27",
+    "id": 328
+  },
+  {
+    "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+    "date": "2026-02-27",
+    "id": 329
   }
 ]
