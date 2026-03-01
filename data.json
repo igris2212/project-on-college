@@ -2371,5 +2371,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
     "date": "2026-02-28",
     "id": 339
+  },
+  {
+    "title": "Microgpt",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://karpathy.github.io/2026/02/12/microgpt/",
+    "date": "2026-03-01",
+    "id": 340
+  },
+  {
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://twitter.com/OpenAI/status/2027846016423321831",
+    "date": "2026-03-01",
+    "id": 341
+  },
+  {
+    "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+    "date": "2026-03-01",
+    "id": 342
+  },
+  {
+    "title": "The happiest I've ever been",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ben-mini.com/2026/the-happiest-ive-ever-been",
+    "date": "2026-03-01",
+    "id": 343
+  },
+  {
+    "title": "Obsidian Sync now has a headless client",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://help.obsidian.md/sync/headless",
+    "date": "2026-03-01",
+    "id": 344
+  },
+  {
+    "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nature.com/articles/s41586-026-10114-5",
+    "date": "2026-03-01",
+    "id": 345
+  },
+  {
+    "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+    "date": "2026-03-01",
+    "id": 346
+  },
+  {
+    "title": "Hardwood: A New Parser for Apache Parquet",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
+    "date": "2026-03-01",
+    "id": 347
+  },
+  {
+    "title": "Block the “Upgrade to Tahoe” Alerts",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+    "date": "2026-03-01",
+    "id": 348
+  },
+  {
+    "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/ad-si/Woxi",
+    "date": "2026-03-01",
+    "id": 349
   }
 ]
