@@ -2581,5 +2581,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
     "date": "2026-03-03",
     "id": 369
+  },
+  {
+    "title": "The Python Insider Blog Has Moved!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/03/the-python-insider-blog-has-moved/",
+    "date": "2026-03-03",
+    "id": 370
+  },
+  {
+    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://grapheneos.social/@GrapheneOS/116160393783585567",
+    "date": "2026-03-04",
+    "id": 371
+  },
+  {
+    "title": "Better JIT for Postgres",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/vladich/pg_jitter",
+    "date": "2026-03-04",
+    "id": 372
+  },
+  {
+    "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bbc.com/news/articles/cly2m5e5ke4o",
+    "date": "2026-03-04",
+    "id": 373
+  },
+  {
+    "title": "Agentic Engineering Patterns",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "date": "2026-03-04",
+    "id": 374
+  },
+  {
+    "title": "Graphics Programming Resources",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://develop--gpvm-website.netlify.app/resources/",
+    "date": "2026-03-04",
+    "id": 375
+  },
+  {
+    "title": "A CPU that runs entirely on GPU",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/robertcprice/nCPU",
+    "date": "2026-03-04",
+    "id": 376
+  },
+  {
+    "title": "MacBook Pro with M5 Pro and M5 Max",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+    "date": "2026-03-04",
+    "id": 377
+  },
+  {
+    "title": "On the Design of Programming Languages (1974) [pdf]",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
+    "date": "2026-03-04",
+    "id": 378
+  },
+  {
+    "title": "Speculative Speculative Decoding (SSD)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2603.03251",
+    "date": "2026-03-04",
+    "id": 379
+  },
+  {
+    "title": "Weave – A language aware merge algorithm based on entities",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/Ataraxy-Labs/weave",
+    "date": "2026-03-04",
+    "id": 380
   }
 ]
