@@ -2658,5 +2658,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/Ataraxy-Labs/weave",
     "date": "2026-03-04",
     "id": 380
+  },
+  {
+    "title": "Python 3.12.13, 3.11.15 and 3.10.20 are now available!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/03/python-31213-31115-31020/",
+    "date": "2026-03-03",
+    "id": 381
+  },
+  {
+    "title": "Google Workspace CLI",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/googleworkspace/cli",
+    "date": "2026-03-05",
+    "id": 382
+  },
+  {
+    "title": "You Just Reveived",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dylan.gr/1772520728",
+    "date": "2026-03-05",
+    "id": 383
+  },
+  {
+    "title": "MacBook Neo",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+    "date": "2026-03-05",
+    "id": 384
+  },
+  {
+    "title": "Relax NG is a schema language for XML",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://relaxng.org/",
+    "date": "2026-03-05",
+    "id": 385
+  },
+  {
+    "title": "Building a new Flash",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bill.newgrounds.com/news/post/1607118",
+    "date": "2026-03-05",
+    "id": 386
+  },
+  {
+    "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tim.blog/2026/03/04/the-self-help-trap/",
+    "date": "2026-03-05",
+    "id": 387
+  },
+  {
+    "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://poppy-connection-keeper.netlify.app/",
+    "date": "2026-03-05",
+    "id": 388
+  },
+  {
+    "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+    "date": "2026-03-05",
+    "id": 389
+  },
+  {
+    "title": "Something is afoot in the land of Qwen",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://simonwillison.net/2026/Mar/4/qwen/",
+    "date": "2026-03-05",
+    "id": 390
+  },
+  {
+    "title": "What Python's asyncio primitives get wrong about shared state",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+    "date": "2026-03-05",
+    "id": 391
   }
 ]
