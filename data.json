@@ -2805,5 +2805,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
     "date": "2026-03-06",
     "id": 401
+  },
+  {
+    "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://plasma-bigscreen.org",
+    "date": "2026-03-07",
+    "id": 402
+  },
+  {
+    "title": "UUID package coming to Go standard library",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/golang/go/issues/62026",
+    "date": "2026-03-07",
+    "id": 403
+  },
+  {
+    "title": "this css proves me human",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://will-keleher.com/posts/this-css-makes-me-human/",
+    "date": "2026-03-07",
+    "id": 404
+  },
+  {
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "date": "2026-03-07",
+    "id": 405
+  },
+  {
+    "title": "Maybe there's a pattern here?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dynomight.net/pattern/",
+    "date": "2026-03-07",
+    "id": 406
+  },
+  {
+    "title": "Galileo's handwritten notes found in ancient astronomy text",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+    "date": "2026-03-07",
+    "id": 407
+  },
+  {
+    "title": "The Longing (1999)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.cluetrain.com/book/longing.html",
+    "date": "2026-03-07",
+    "id": 408
+  },
+  {
+    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/moongate-community/moongatev2",
+    "date": "2026-03-07",
+    "id": 409
+  },
+  {
+    "title": "Helix: A post-modern text editor",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://helix-editor.com/",
+    "date": "2026-03-07",
+    "id": 410
+  },
+  {
+    "title": "Querying 3B Vectors",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
+    "date": "2026-03-07",
+    "id": 411
   }
 ]
