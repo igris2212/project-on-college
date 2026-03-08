@@ -2875,5 +2875,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
     "date": "2026-03-07",
     "id": 411
+  },
+  {
+    "title": "Cloud VM benchmarks 2026",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+    "date": "2026-03-08",
+    "id": 412
+  },
+  {
+    "title": "\"Warn about PyPy being unmaintained\"",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/astral-sh/uv/pull/17643",
+    "date": "2026-03-08",
+    "id": 413
+  },
+  {
+    "title": "CasNum",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/0x0mer/CasNum",
+    "date": "2026-03-08",
+    "id": 414
+  },
+  {
+    "title": "MonoGame: A .NET framework for making cross-platform games",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/MonoGame/MonoGame",
+    "date": "2026-03-08",
+    "id": 415
+  },
+  {
+    "title": "A decade of Docker containers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "date": "2026-03-08",
+    "id": 416
+  },
+  {
+    "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://thecloudlet.github.io/blog/project/emacs-02/",
+    "date": "2026-03-08",
+    "id": 417
+  },
+  {
+    "title": "How to run Qwen 3.5 locally",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://unsloth.ai/docs/models/qwen3.5",
+    "date": "2026-03-08",
+    "id": 418
+  },
+  {
+    "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+    "date": "2026-03-08",
+    "id": 419
+  },
+  {
+    "title": "Yoghurt delivery women combatting loneliness in Japan",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+    "date": "2026-03-08",
+    "id": 420
+  },
+  {
+    "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/karpathy/autoresearch",
+    "date": "2026-03-08",
+    "id": 421
   }
 ]
