@@ -3015,5 +3015,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.smartlab.at/rss-revival-life-after-social-media/",
     "date": "2026-03-09",
     "id": 431
+  },
+  {
+    "title": "Two Years of Emacs Solo",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+    "date": "2026-03-10",
+    "id": 432
+  },
+  {
+    "title": "Optimizing Top K in Postgres",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.paradedb.com/blog/optimizing-top-k",
+    "date": "2026-03-10",
+    "id": 433
+  },
+  {
+    "title": "Claude Code, Claude Cowork and Codex #5",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+    "date": "2026-03-10",
+    "id": 434
+  },
+  {
+    "title": "Lotus 1-2-3 on the PC with DOS",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://stonetools.ghost.io/lotus123-dos/",
+    "date": "2026-03-10",
+    "id": 435
+  },
+  {
+    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+    "date": "2026-03-10",
+    "id": 436
+  },
+  {
+    "title": "Building a Procedural Hex Map with Wave Function Collapse",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://felixturner.github.io/hex-map-wfc/article/",
+    "date": "2026-03-10",
+    "id": 437
+  },
+  {
+    "title": "Show HN: Remotely use my guitar tuner",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://realtuner.online/",
+    "date": "2026-03-10",
+    "id": 438
+  },
+  {
+    "title": "macOS Tahoe windows have different corner radiuses",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lapcatsoftware.com/articles/2026/3/1.html",
+    "date": "2026-03-10",
+    "id": 439
+  },
+  {
+    "title": "JSLinux Now Supports x86_64",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bellard.org/jslinux/",
+    "date": "2026-03-10",
+    "id": 440
+  },
+  {
+    "title": "Learnings from paying artists royalties for AI-generated art",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+    "date": "2026-03-10",
+    "id": 441
   }
 ]
