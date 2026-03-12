@@ -3162,5 +3162,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.jsbarretto.com/post/text-editor",
     "date": "2026-03-11",
     "id": 452
+  },
+  {
+    "title": "Returning to Rails in 2026",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+    "date": "2026-03-12",
+    "id": 453
+  },
+  {
+    "title": "Show HN: s@: decentralized social networking over static sites",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://satproto.org/",
+    "date": "2026-03-12",
+    "id": 454
+  },
+  {
+    "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+    "date": "2026-03-12",
+    "id": 455
+  },
+  {
+    "title": "Temporal: The 9-year journey to fix time in JavaScript",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bloomberg.github.io/js-blog/post/temporal/",
+    "date": "2026-03-12",
+    "id": 456
+  },
+  {
+    "title": "Making WebAssembly a first-class language on the Web",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+    "date": "2026-03-12",
+    "id": 457
+  },
+  {
+    "title": "WebPKI and You",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+    "date": "2026-03-12",
+    "id": 458
+  },
+  {
+    "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+    "date": "2026-03-12",
+    "id": 459
+  },
+  {
+    "title": "Datahäxan",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://0dd.company/galleries/witches/7.html",
+    "date": "2026-03-12",
+    "id": 460
+  },
+  {
+    "title": "Many SWE-bench-Passing PRs would not be merged",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+    "date": "2026-03-12",
+    "id": 461
+  },
+  {
+    "title": "I was interviewed by an AI bot for a job",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+    "date": "2026-03-12",
+    "id": 462
   }
 ]
