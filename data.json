@@ -3232,5 +3232,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
     "date": "2026-03-12",
     "id": 462
+  },
+  {
+    "title": "Python 3.15.0 alpha 7",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/03/python-3150-alpha-7/",
+    "date": "2026-03-10",
+    "id": 463
+  },
+  {
+    "title": "Willingness to look stupid",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sharif.io/looking-stupid",
+    "date": "2026-03-13",
+    "id": 464
+  },
+  {
+    "title": "Malus – Clean Room as a Service",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://malus.sh",
+    "date": "2026-03-13",
+    "id": 465
+  },
+  {
+    "title": "Vite 8.0 Is Out",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://vite.dev/blog/announcing-vite8",
+    "date": "2026-03-13",
+    "id": 466
+  },
+  {
+    "title": "“This is not the computer for you”",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+    "date": "2026-03-13",
+    "id": 467
+  },
+  {
+    "title": "Prefix sums at gigabytes per second with ARM NEON",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
+    "date": "2026-03-13",
+    "id": 468
+  },
+  {
+    "title": "Hyperlinks in Terminal Emulators",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+    "date": "2026-03-13",
+    "id": 469
+  },
+  {
+    "title": "Bubble Sorted Amen Break",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://parametricavocado.itch.io/amen-sorting",
+    "date": "2026-03-13",
+    "id": 470
+  },
+  {
+    "title": "Shall I implement it? No",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+    "date": "2026-03-13",
+    "id": 471
+  },
+  {
+    "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+    "date": "2026-03-13",
+    "id": 472
+  },
+  {
+    "title": "Reversing memory loss via gut-brain communication",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+    "date": "2026-03-13",
+    "id": 473
   }
 ]
