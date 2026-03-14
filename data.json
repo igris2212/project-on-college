@@ -3309,5 +3309,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
     "date": "2026-03-13",
     "id": 473
+  },
+  {
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://claude.com/blog/1m-context-ga",
+    "date": "2026-03-14",
+    "id": 474
+  },
+  {
+    "title": "Can I run AI locally?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.canirun.ai/",
+    "date": "2026-03-14",
+    "id": 475
+  },
+  {
+    "title": "A Survival Guide to a PhD (2016)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://karpathy.github.io/2016/09/07/phd/",
+    "date": "2026-03-14",
+    "id": 476
+  },
+  {
+    "title": "Emacs and Vim in the Age of AI",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+    "date": "2026-03-14",
+    "id": 477
+  },
+  {
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "date": "2026-03-14",
+    "id": 478
+  },
+  {
+    "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://channelsurfer.tv",
+    "date": "2026-03-14",
+    "id": 479
+  },
+  {
+    "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+    "date": "2026-03-14",
+    "id": 480
+  },
+  {
+    "title": "Atari 2600 BASIC Programming (2015)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://huguesjohnson.com/programming/atari-2600-basic/",
+    "date": "2026-03-14",
+    "id": 481
+  },
+  {
+    "title": "You gotta think outside the hypercube",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+    "date": "2026-03-14",
+    "id": 482
+  },
+  {
+    "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/TomBadash/MouseControl",
+    "date": "2026-03-14",
+    "id": 483
   }
 ]
