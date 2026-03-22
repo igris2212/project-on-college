@@ -3869,5 +3869,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nippon.com/en/japan-data/h01362/",
     "date": "2026-03-21",
     "id": 553
+  },
+  {
+    "title": "The three pillars of JavaScript bloat",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+    "date": "2026-03-22",
+    "id": 554
+  },
+  {
+    "title": "Tinybox – A powerful computer for deep learning",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tinygrad.org/#tinybox",
+    "date": "2026-03-22",
+    "id": 555
+  },
+  {
+    "title": "Chest Fridge (2009)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mtbest.net/chest-fridge/",
+    "date": "2026-03-22",
+    "id": 556
+  },
+  {
+    "title": "Some things just take time",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+    "date": "2026-03-22",
+    "id": 557
+  },
+  {
+    "title": "Professional video editing, right in the browser with WebGPU and WASM",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tooscut.app/",
+    "date": "2026-03-22",
+    "id": 558
+  },
+  {
+    "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://radar.cloudflare.com/domains/domain/archive.today",
+    "date": "2026-03-22",
+    "id": 559
+  },
+  {
+    "title": "My first patch to the Linux kernel",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://pooladkhay.com/posts/first-kernel-patch/",
+    "date": "2026-03-22",
+    "id": 560
+  },
+  {
+    "title": "Floci – A free, open-source local AWS emulator",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/hectorvent/floci",
+    "date": "2026-03-22",
+    "id": 561
+  },
+  {
+    "title": "Boomloom: Think with your hands",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.theboomloom.com",
+    "date": "2026-03-22",
+    "id": 562
+  },
+  {
+    "title": "Bayesian statistics for confused data scientists",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+    "date": "2026-03-22",
+    "id": 563
   }
 ]
