@@ -4226,5 +4226,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fightchatcontrol.eu/?foo=bar",
     "date": "2026-03-26",
     "id": 604
+  },
+  {
+    "title": "Schedule tasks on the web",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://code.claude.com/docs/en/web-scheduled-tasks",
+    "date": "2026-03-27",
+    "id": 605
+  },
+  {
+    "title": "The European AllSky7 fireball network",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.allsky7.net/#archive",
+    "date": "2026-03-27",
+    "id": 606
+  },
+  {
+    "title": "A Faster Alternative to Jq",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://micahkepe.com/blog/jsongrep/",
+    "date": "2026-03-27",
+    "id": 607
+  },
+  {
+    "title": "Apple discontinues the Mac Pro",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+    "date": "2026-03-27",
+    "id": 608
+  },
+  {
+    "title": "Why so many control rooms were seafoam green (2025)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+    "date": "2026-03-27",
+    "id": 609
+  },
+  {
+    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "date": "2026-03-27",
+    "id": 610
+  },
+  {
+    "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://library.oapen.org//handle/20.500.12657/53344",
+    "date": "2026-03-27",
+    "id": 611
+  },
+  {
+    "title": "Show HN: Minimalist library to generate SVG views of scientific data",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/alefore/mini_svg/",
+    "date": "2026-03-27",
+    "id": 612
+  },
+  {
+    "title": "Agent-to-agent pair programming",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+    "date": "2026-03-27",
+    "id": 613
+  },
+  {
+    "title": "DOOM Over DNS",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/resumex/doom-over-dns",
+    "date": "2026-03-27",
+    "id": 614
   }
 ]
