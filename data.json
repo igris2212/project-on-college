@@ -4576,5 +4576,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.railsreviews.com/skills",
     "date": "2026-03-31",
     "id": 654
+  },
+  {
+    "title": "Claude Code Unpacked : A visual guide",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ccunpacked.dev/",
+    "date": "2026-04-01",
+    "id": 655
+  },
+  {
+    "title": "CERN levels up with new superconducting karts",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+    "date": "2026-04-01",
+    "id": 656
+  },
+  {
+    "title": "Neanderthals survived on a knife's edge for 350k years",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+    "date": "2026-04-01",
+    "id": 657
+  },
+  {
+    "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/yannick-cw/korb",
+    "date": "2026-04-01",
+    "id": 658
+  },
+  {
+    "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+    "date": "2026-04-01",
+    "id": 659
+  },
+  {
+    "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2602.04118",
+    "date": "2026-04-01",
+    "id": 660
+  },
+  {
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://prismml.com/",
+    "date": "2026-04-01",
+    "id": 661
+  },
+  {
+    "title": "A dot a day keeps the clutter away",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://scottlawsonbc.com/post/dot-system",
+    "date": "2026-04-01",
+    "id": 662
+  },
+  {
+    "title": "TruffleRuby",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://chrisseaton.com/truffleruby/",
+    "date": "2026-04-01",
+    "id": 663
+  },
+  {
+    "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+    "date": "2026-04-01",
+    "id": 664
   }
 ]
