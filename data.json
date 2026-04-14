@@ -5500,5 +5500,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
     "date": "2026-04-13",
     "id": 786
+  },
+  {
+    "title": "Rust for CPython Progress Update April 2026",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/04/rust-for-cpython-2026-04/",
+    "date": "2026-04-08",
+    "id": 787
+  },
+  {
+    "title": "DaVinci Resolve releases Photo Editor",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.blackmagicdesign.com/products/davinciresolve/photo",
+    "date": "2026-04-14",
+    "id": 788
+  },
+  {
+    "title": "A new spam policy for \"back button hijacking\"",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+    "date": "2026-04-14",
+    "id": 789
+  },
+  {
+    "title": "The Shinkansen",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+    "date": "2026-04-14",
+    "id": 790
+  },
+  {
+    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "date": "2026-04-14",
+    "id": 791
+  },
+  {
+    "title": "GitHub Stacked PRs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.github.com/gh-stack/",
+    "date": "2026-04-14",
+    "id": 792
+  },
+  {
+    "title": "Introspective Diffusion Language Models",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://introspective-diffusion.github.io/",
+    "date": "2026-04-14",
+    "id": 793
+  },
+  {
+    "title": "Roblox devs now need a subscription to share their games freely",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+    "date": "2026-04-14",
+    "id": 794
+  },
+  {
+    "title": "Distributed DuckDB Instance",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/citguru/openduck",
+    "date": "2026-04-14",
+    "id": 795
+  },
+  {
+    "title": "TanStack Start Now Support React Server Components",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tanstack.com/blog/react-server-components",
+    "date": "2026-04-14",
+    "id": 796
+  },
+  {
+    "title": "Lean proved this program correct; then I found a bug",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+    "date": "2026-04-14",
+    "id": 797
   }
 ]
