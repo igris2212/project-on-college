@@ -5654,5 +5654,68 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
     "date": "2026-04-15",
     "id": 808
+  },
+  {
+    "title": "Stop Using Ollama",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "date": "2026-04-16",
+    "id": 809
+  },
+  {
+    "title": "IPv6 traffic crosses the 50% mark",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+    "date": "2026-04-16",
+    "id": 810
+  },
+  {
+    "title": "Darkbloom – Private inference on idle Macs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://darkbloom.dev",
+    "date": "2026-04-16",
+    "id": 811
+  },
+  {
+    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://daedal.io/@thomzane/116410863009847575",
+    "date": "2026-04-16",
+    "id": 812
+  },
+  {
+    "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/Nightmare-Eclipse/RedSun",
+    "date": "2026-04-16",
+    "id": 813
+  },
+  {
+    "title": "The paper computer",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jsomers.net/blog/the-paper-computer",
+    "date": "2026-04-16",
+    "id": 814
+  },
+  {
+    "title": "Cybersecurity looks like proof of work now",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+    "date": "2026-04-16",
+    "id": 815
+  },
+  {
+    "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+    "date": "2026-04-16",
+    "id": 816
+  },
+  {
+    "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+    "date": "2026-04-16",
+    "id": 817
   }
 ]
