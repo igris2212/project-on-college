@@ -5717,5 +5717,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
     "date": "2026-04-16",
     "id": 817
+  },
+  {
+    "title": "Claude Opus 4.7",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/claude-opus-4-7",
+    "date": "2026-04-17",
+    "id": 818
+  },
+  {
+    "title": "Codex for almost everything",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/codex-for-almost-everything/",
+    "date": "2026-04-17",
+    "id": 819
+  },
+  {
+    "title": "How to make buffet breakfasts less wasteful",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful",
+    "date": "2026-04-17",
+    "id": 820
+  },
+  {
+    "title": "FIM – Linux framebuffer image viewer",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nongnu.org/fbi-improved/",
+    "date": "2026-04-17",
+    "id": 821
+  },
+  {
+    "title": "CadQuery is an open-source Python library for building 3D CAD models",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cadquery.github.io/",
+    "date": "2026-04-17",
+    "id": 822
+  },
+  {
+    "title": "A Python Interpreter Written in Python",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+    "date": "2026-04-17",
+    "id": 823
+  },
+  {
+    "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://chapel-lang.org/blog/posts/30years/",
+    "date": "2026-04-17",
+    "id": 824
+  },
+  {
+    "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "date": "2026-04-17",
+    "id": 825
+  },
+  {
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/gainsec/autoprober",
+    "date": "2026-04-17",
+    "id": 826
+  },
+  {
+    "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://clojure.org/about/documentary",
+    "date": "2026-04-17",
+    "id": 827
   }
 ]
