@@ -5787,5 +5787,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://clojure.org/about/documentary",
     "date": "2026-04-17",
     "id": 827
+  },
+  {
+    "title": "Category Theory Illustrated – Orders",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+    "date": "2026-04-18",
+    "id": 828
+  },
+  {
+    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://victorpoughon.github.io/interval-calculator/",
+    "date": "2026-04-18",
+    "id": 829
+  },
+  {
+    "title": "Claude Design",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "date": "2026-04-18",
+    "id": 830
+  },
+  {
+    "title": "Towards trust in Emacs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+    "date": "2026-04-18",
+    "id": 831
+  },
+  {
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "date": "2026-04-18",
+    "id": 832
+  },
+  {
+    "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+    "date": "2026-04-18",
+    "id": 833
+  },
+  {
+    "title": "Amiga Graphics",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://amiga.lychesis.net/",
+    "date": "2026-04-18",
+    "id": 834
+  },
+  {
+    "title": "Spending 3 months coding by hand",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://miguelconner.substack.com/p/im-coding-by-hand",
+    "date": "2026-04-18",
+    "id": 835
+  },
+  {
+    "title": "What the EU Battery Passport Means for Your Devices",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://holdmybill.com/blog/eu-battery-passport-explained-2027",
+    "date": "2026-04-18",
+    "id": 836
+  },
+  {
+    "title": "Rewriting Every Syscall in a Linux Binary at Load Time",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://amitlimaye1.substack.com/p/rewriting-every-syscall-in-a-linux",
+    "date": "2026-04-18",
+    "id": 837
   }
 ]
