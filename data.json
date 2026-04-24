@@ -6207,5 +6207,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nrehiew.github.io/blog/minimal_editing/",
     "date": "2026-04-23",
     "id": 887
+  },
+  {
+    "title": "PyCon US 2026: Why we're asking you to think about your hotel reservation",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/04/pycon-us-2026-hotels.html",
+    "date": "2026-04-14",
+    "id": 888
+  },
+  {
+    "title": "DeepSeek v4",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://api-docs.deepseek.com/",
+    "date": "2026-04-24",
+    "id": 889
+  },
+  {
+    "title": "Composition Shouldn't be this Hard",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.cambra.dev/blog/announcement/",
+    "date": "2026-04-24",
+    "id": 890
+  },
+  {
+    "title": "Why I Write (1946)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+    "date": "2026-04-24",
+    "id": 891
+  },
+  {
+    "title": "An update on recent Claude Code quality reports",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/engineering/april-23-postmortem",
+    "date": "2026-04-24",
+    "id": 892
+  },
+  {
+    "title": "GPT-5.5",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/introducing-gpt-5-5/",
+    "date": "2026-04-24",
+    "id": 893
+  },
+  {
+    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+    "date": "2026-04-24",
+    "id": 894
+  },
+  {
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://socket.dev/blog/bitwarden-cli-compromised",
+    "date": "2026-04-24",
+    "id": 895
+  },
+  {
+    "title": "Spinel: Ruby AOT Native Compiler",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/matz/spinel",
+    "date": "2026-04-24",
+    "id": 896
+  },
+  {
+    "title": "Show HN: Gova – The declarative GUI framework for Go",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/NV404/gova",
+    "date": "2026-04-24",
+    "id": 897
+  },
+  {
+    "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ynarwal.github.io/how-llms-work/",
+    "date": "2026-04-24",
+    "id": 898
   }
 ]
