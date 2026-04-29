@@ -6564,5 +6564,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fabiensanglard.net/curse/",
     "date": "2026-04-28",
     "id": 938
+  },
+  {
+    "title": "Ghostty is leaving GitHub",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mitchellh.com/writing/ghostty-leaving-github",
+    "date": "2026-04-29",
+    "id": 939
+  },
+  {
+    "title": "Bugs Rust won't catch",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://corrode.dev/blog/bugs-rust-wont-catch/",
+    "date": "2026-04-29",
+    "id": 940
+  },
+  {
+    "title": "HardenedBSD Is Now Officially on Radicle",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+    "date": "2026-04-29",
+    "id": 941
+  },
+  {
+    "title": "Tell HN: An update from the new Tindie team",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: item?id=47945522",
+    "date": "2026-04-29",
+    "id": 942
+  },
+  {
+    "title": "How ChatGPT serves ads",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+    "date": "2026-04-29",
+    "id": 943
+  },
+  {
+    "title": "Before GitHub",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lucumr.pocoo.org/2026/4/28/before-github/",
+    "date": "2026-04-29",
+    "id": 944
+  },
+  {
+    "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/rocky-data/rocky",
+    "date": "2026-04-29",
+    "id": 945
+  },
+  {
+    "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+    "date": "2026-04-29",
+    "id": 946
+  },
+  {
+    "title": "Withnail's Coat and I",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ontherow.substack.com/p/withnails-coat-and-i",
+    "date": "2026-04-29",
+    "id": 947
+  },
+  {
+    "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
+    "date": "2026-04-29",
+    "id": 948
   }
 ]
