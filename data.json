@@ -6704,5 +6704,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
     "date": "2026-04-30",
     "id": 958
+  },
+  {
+    "title": "Auto Polo",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://en.wikipedia.org/wiki/Auto_polo",
+    "date": "2026-05-01",
+    "id": 959
+  },
+  {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "date": "2026-05-01",
+    "id": 960
+  },
+  {
+    "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+    "date": "2026-05-01",
+    "id": 961
+  },
+  {
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "date": "2026-05-01",
+    "id": 962
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "date": "2026-05-01",
+    "id": 963
+  },
+  {
+    "title": "Opus 4.7 knows the real Kelsey",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+    "date": "2026-05-01",
+    "id": 964
+  },
+  {
+    "title": "Grok 4.3",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://docs.x.ai/developers/models/grok-4.3",
+    "date": "2026-05-01",
+    "id": 965
+  },
+  {
+    "title": "If I Could Make My Own GitHub",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://matduggan.com/if-i-could-make-my-own-github/",
+    "date": "2026-05-01",
+    "id": 966
+  },
+  {
+    "title": "Softmax, can you derive the Jacobian? And should you care?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://idlemachines.co.uk/essays/softmax",
+    "date": "2026-05-01",
+    "id": 967
+  },
+  {
+    "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "date": "2026-05-01",
+    "id": 968
   }
 ]
