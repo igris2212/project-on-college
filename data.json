@@ -6984,5 +6984,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/",
     "date": "2026-05-04",
     "id": 998
+  },
+  {
+    "title": "Announcing Python Software Foundation Fellow Members for Q1 2026! 🎉",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/04/announcing-python-software-foundation.html",
+    "date": "2026-04-23",
+    "id": 999
+  },
+  {
+    "title": "Async Rust never left the MVP state",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "date": "2026-05-05",
+    "id": 1000
+  },
+  {
+    "title": "Train Your Own LLM from Scratch",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/angelos-p/llm-from-scratch",
+    "date": "2026-05-05",
+    "id": 1001
+  },
+  {
+    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+    "date": "2026-05-05",
+    "id": 1002
+  },
+  {
+    "title": "Hand Drawn QR Codes",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sethmlarson.dev/hand-drawn-qr-codes",
+    "date": "2026-05-05",
+    "id": 1003
+  },
+  {
+    "title": "Bun is being ported from Zig to Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "date": "2026-05-05",
+    "id": 1004
+  },
+  {
+    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "date": "2026-05-05",
+    "id": 1005
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "date": "2026-05-05",
+    "id": 1006
+  },
+  {
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "date": "2026-05-05",
+    "id": 1007
+  },
+  {
+    "title": "Farewell to a Giant of Botany",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+    "date": "2026-05-05",
+    "id": 1008
   }
 ]
