@@ -7194,5 +7194,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
     "date": "2026-05-07",
     "id": 1028
+  },
+  {
+    "title": "Python 3.14.5 release candidate",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/05/python-3145rc1/",
+    "date": "2026-05-04",
+    "id": 1029
+  },
+  {
+    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "date": "2026-05-08",
+    "id": 1030
+  },
+  {
+    "title": "Maybe you shouldn't install new software for a bit",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://xeiaso.net/blog/2026/abstain-from-install/",
+    "date": "2026-05-08",
+    "id": 1031
+  },
+  {
+    "title": "Cloudflare to cut about 20% workforce",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+    "date": "2026-05-08",
+    "id": 1032
+  },
+  {
+    "title": "Dirtyfrag: Universal Linux LPE",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "date": "2026-05-08",
+    "id": 1033
+  },
+  {
+    "title": "Rumors of my death are slightly exaggerated",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: item?id=48037336",
+    "date": "2026-05-08",
+    "id": 1034
+  },
+  {
+    "title": "The map that keeps Burning Man honest",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.not-ship.com/burning-man-moop/",
+    "date": "2026-05-08",
+    "id": 1035
+  },
+  {
+    "title": "Pinocchio is weirder than you remembered",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://storica.club/blog/pinocchio-in-italian/",
+    "date": "2026-05-08",
+    "id": 1036
+  },
+  {
+    "title": "Agents need control flow, not more prompts",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "date": "2026-05-08",
+    "id": 1037
+  },
+  {
+    "title": "Inventing Cyrillic",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
+    "date": "2026-05-08",
+    "id": 1038
+  },
+  {
+    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+    "date": "2026-05-08",
+    "id": 1039
   }
 ]
