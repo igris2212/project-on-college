@@ -7341,5 +7341,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
     "date": "2026-05-09",
     "id": 1049
+  },
+  {
+    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/imtomt/ymawky",
+    "date": "2026-05-10",
+    "id": 1050
+  },
+  {
+    "title": "Rotten Dot Com",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+    "date": "2026-05-10",
+    "id": 1051
+  },
+  {
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://twitter.com/jarredsumner/status/2053047748191232310",
+    "date": "2026-05-10",
+    "id": 1052
+  },
+  {
+    "title": "The One Dollar Counterfeiter",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+    "date": "2026-05-10",
+    "id": 1053
+  },
+  {
+    "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+    "date": "2026-05-10",
+    "id": 1054
+  },
+  {
+    "title": "Gemini API File Search is now multimodal",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "date": "2026-05-10",
+    "id": 1055
+  },
+  {
+    "title": "We see something that works, and then we understand it",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+    "date": "2026-05-10",
+    "id": 1056
+  },
+  {
+    "title": "Internet Archive Switzerland",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "date": "2026-05-10",
+    "id": 1057
+  },
+  {
+    "title": "I’ve banned query strings",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://chrismorgan.info/no-query-strings",
+    "date": "2026-05-10",
+    "id": 1058
+  },
+  {
+    "title": "Debian must ship reproducible packages",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+    "date": "2026-05-10",
+    "id": 1059
   }
 ]
