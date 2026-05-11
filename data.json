@@ -7411,5 +7411,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
     "date": "2026-05-10",
     "id": 1059
+  },
+  {
+    "title": "Python 3.15.0 beta 1 is here!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/05/python-3150-beta-1/",
+    "date": "2026-05-07",
+    "id": 1060
+  },
+  {
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "date": "2026-05-11",
+    "id": 1061
+  },
+  {
+    "title": "Local AI needs to be the norm",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "date": "2026-05-11",
+    "id": 1062
+  },
+  {
+    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+    "date": "2026-05-11",
+    "id": 1063
+  },
+  {
+    "title": "I'm going back to writing code by hand",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+    "date": "2026-05-11",
+    "id": 1064
+  },
+  {
+    "title": "Running local models on an M4 with 24GB memory",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jola.dev/posts/running-local-models-on-m4",
+    "date": "2026-05-11",
+    "id": 1065
+  },
+  {
+    "title": "Obsidian plugin was abused to deploy a remote access trojan",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "date": "2026-05-11",
+    "id": 1066
+  },
+  {
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "date": "2026-05-11",
+    "id": 1067
+  },
+  {
+    "title": "Guitar tuner that uses phone accelerometer",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tautme.github.io/phone-sensors/accel-tuner.html",
+    "date": "2026-05-11",
+    "id": 1068
+  },
+  {
+    "title": "Mythos Finds a Curl Vulnerability",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+    "date": "2026-05-11",
+    "id": 1069
+  },
+  {
+    "title": "Incident Report: CVE-2024-YIKES",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "date": "2026-05-11",
+    "id": 1070
   }
 ]
