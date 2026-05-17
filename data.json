@@ -7859,5 +7859,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
     "date": "2026-05-16",
     "id": 1123
+  },
+  {
+    "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+    "date": "2026-05-17",
+    "id": 1124
+  },
+  {
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://crates.io/crates/zerostack/1.0.0",
+    "date": "2026-05-17",
+    "id": 1125
+  },
+  {
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+    "date": "2026-05-17",
+    "id": 1126
+  },
+  {
+    "title": "Colossus: The Forbin Project",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+    "date": "2026-05-17",
+    "id": 1127
+  },
+  {
+    "title": "Hosting a website on an 8-bit microcontroller",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://maurycyz.com/projects/mcusite/",
+    "date": "2026-05-17",
+    "id": 1128
+  },
+  {
+    "title": "A nicer voltmeter clock",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+    "date": "2026-05-17",
+    "id": 1129
+  },
+  {
+    "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+    "date": "2026-05-17",
+    "id": 1130
+  },
+  {
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "date": "2026-05-17",
+    "id": 1131
+  },
+  {
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "date": "2026-05-17",
+    "id": 1132
+  },
+  {
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nvlabs.github.io/Sana/WM/",
+    "date": "2026-05-17",
+    "id": 1133
   }
 ]
