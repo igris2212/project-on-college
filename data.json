@@ -8069,5 +8069,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/anthropic-acquires-stainless",
     "date": "2026-05-19",
     "id": 1153
+  },
+  {
+    "title": "Everything in C is undefined behavior",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+    "date": "2026-05-20",
+    "id": 1154
+  },
+  {
+    "title": "Gemini 3.5 Flash",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "date": "2026-05-20",
+    "id": 1155
+  },
+  {
+    "title": "FiveThirtyEight articles on the Internet Archive",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fivethirtyeightindex.com/",
+    "date": "2026-05-20",
+    "id": 1156
+  },
+  {
+    "title": "Learnings from 100K lines of Rust with AI (2025)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+    "date": "2026-05-20",
+    "id": 1157
+  },
+  {
+    "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://virtualosmuseum.org/",
+    "date": "2026-05-20",
+    "id": 1158
+  },
+  {
+    "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+    "date": "2026-05-20",
+    "id": 1159
+  },
+  {
+    "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+    "date": "2026-05-20",
+    "id": 1160
+  },
+  {
+    "title": "Google changes its search box",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "date": "2026-05-20",
+    "id": 1161
+  },
+  {
+    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/antoinezambelli/forge",
+    "date": "2026-05-20",
+    "id": 1162
+  },
+  {
+    "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/wiltodelta/remove-ai-watermarks",
+    "date": "2026-05-20",
+    "id": 1163
   }
 ]
