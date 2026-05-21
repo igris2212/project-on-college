@@ -8139,5 +8139,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/wiltodelta/remove-ai-watermarks",
     "date": "2026-05-20",
     "id": 1163
+  },
+  {
+    "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/helvesec/rmux",
+    "date": "2026-05-21",
+    "id": 1164
+  },
+  {
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "date": "2026-05-21",
+    "id": 1165
+  },
+  {
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "date": "2026-05-21",
+    "id": 1166
+  },
+  {
+    "title": "Show HN: I reverse engineered Apple's video wallpapers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/kageroumado/phosphene",
+    "date": "2026-05-21",
+    "id": 1167
+  },
+  {
+    "title": "Haskell Foundation 2026 Update",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "date": "2026-05-21",
+    "id": 1168
+  },
+  {
+    "title": "Vivaldi 8.0",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+    "date": "2026-05-21",
+    "id": 1169
+  },
+  {
+    "title": "New features in GCC 16: Improved error messages and SARIF output",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+    "date": "2026-05-21",
+    "id": 1170
+  },
+  {
+    "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gwern.net/doc/design/typography/1980-knuth.pdf",
+    "date": "2026-05-21",
+    "id": 1171
+  },
+  {
+    "title": "DOS Zone",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dos.zone/",
+    "date": "2026-05-21",
+    "id": 1172
+  },
+  {
+    "title": "Flipper One Tech Specs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://docs.flipper.net/one/general/tech-specs",
+    "date": "2026-05-21",
+    "id": 1173
   }
 ]
