@@ -8419,5 +8419,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://veronicaexplains.net/my-first-writerdeck/",
     "date": "2026-05-24",
     "id": 1203
+  },
+  {
+    "title": "Magnifica Humanitas (Encyclical Letter)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "date": "2026-05-25",
+    "id": 1204
+  },
+  {
+    "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+    "date": "2026-05-25",
+    "id": 1205
+  },
+  {
+    "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.tinyvolt.com/geomatic",
+    "date": "2026-05-25",
+    "id": 1206
+  },
+  {
+    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://audiomass.co/?multitrack=1",
+    "date": "2026-05-25",
+    "id": 1207
+  },
+  {
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://esengine.github.io/DeepSeek-Reasonix/",
+    "date": "2026-05-25",
+    "id": 1208
+  },
+  {
+    "title": "Migrating from Go to Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "date": "2026-05-25",
+    "id": 1209
+  },
+  {
+    "title": "Bytecode VMs in surprising places (2024)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+    "date": "2026-05-25",
+    "id": 1210
+  },
+  {
+    "title": "Jira Is Turing-Complete",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://seriot.ch/computation/jira.html",
+    "date": "2026-05-25",
+    "id": 1211
+  },
+  {
+    "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ohwr.org/projects/white-rabbit/",
+    "date": "2026-05-25",
+    "id": 1212
+  },
+  {
+    "title": "Notes about reading messages with the Python email packages",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+    "date": "2026-05-25",
+    "id": 1213
   }
 ]
