@@ -8629,5 +8629,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/begoon/rapira",
     "date": "2026-05-28",
     "id": 1233
+  },
+  {
+    "title": "Claude Opus 4.8",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/claude-opus-4-8",
+    "date": "2026-05-29",
+    "id": 1234
+  },
+  {
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "date": "2026-05-29",
+    "id": 1235
+  },
+  {
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "date": "2026-05-29",
+    "id": 1236
+  },
+  {
+    "title": "I made a million dollar product from my dorm room (2025)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nick.winans.io/blog/nice-nano/",
+    "date": "2026-05-29",
+    "id": 1237
+  },
+  {
+    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+    "date": "2026-05-29",
+    "id": 1238
+  },
+  {
+    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "date": "2026-05-29",
+    "id": 1239
+  },
+  {
+    "title": "Italians and Dutch share the same gestural instinct for teaching",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+    "date": "2026-05-29",
+    "id": 1240
+  },
+  {
+    "title": "Ten Basic Clouds",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "date": "2026-05-29",
+    "id": 1241
+  },
+  {
+    "title": "Cars collect a startling amount of data about you",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "date": "2026-05-29",
+    "id": 1242
+  },
+  {
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "date": "2026-05-29",
+    "id": 1243
   }
 ]
