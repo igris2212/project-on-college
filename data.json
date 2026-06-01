@@ -8839,5 +8839,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
     "date": "2026-05-31",
     "id": 1263
+  },
+  {
+    "title": "A 10 year old Xeon is all you need",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "date": "2026-06-01",
+    "id": 1264
+  },
+  {
+    "title": "When AI Crosses the Line: The Matplotlib Incident",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+    "date": "2026-06-01",
+    "id": 1265
+  },
+  {
+    "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blainsmith.com/articles/httptrace-with-go/",
+    "date": "2026-06-01",
+    "id": 1266
+  },
+  {
+    "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+    "date": "2026-06-01",
+    "id": 1267
+  },
+  {
+    "title": "Chuwi Minibook X",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "date": "2026-06-01",
+    "id": 1268
+  },
+  {
+    "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+    "date": "2026-06-01",
+    "id": 1269
+  },
+  {
+    "title": "Is Python Becoming Pinyin?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/",
+    "date": "2026-06-01",
+    "id": 1270
+  },
+  {
+    "title": "Cessation of public development of Kefir C compiler",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://kefir.protopopov.lv/posts/announce2.html",
+    "date": "2026-06-01",
+    "id": 1271
+  },
+  {
+    "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+    "date": "2026-06-01",
+    "id": 1272
+  },
+  {
+    "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://juniper.github.io/libslax/slax-manual.html",
+    "date": "2026-06-01",
+    "id": 1273
   }
 ]
