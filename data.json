@@ -8979,5 +8979,89 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/cyberpapiii/chipotlai-max",
     "date": "2026-06-02",
     "id": 1283
+  },
+  {
+    "title": "Python 3.15.0 beta 2 is here!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/06/python-3150-beta-2/",
+    "date": "2026-06-02",
+    "id": 1284
+  },
+  {
+    "title": "PSF Welcomes Hudson River Trading (HRT) as a Visionary Sponsor",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/05/psf-welcomes-hudson-river-trading-hrt.html",
+    "date": "2026-05-13",
+    "id": 1285
+  },
+  {
+    "title": "Hacking your PC using your speaker without ever touching it",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "date": "2026-06-03",
+    "id": 1286
+  },
+  {
+    "title": "Every Byte Matters",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fzakaria.com/2026/06/01/every-byte-matters",
+    "date": "2026-06-03",
+    "id": 1287
+  },
+  {
+    "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "date": "2026-06-03",
+    "id": 1288
+  },
+  {
+    "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.ammaraskar.com/github-token-stealing/",
+    "date": "2026-06-03",
+    "id": 1289
+  },
+  {
+    "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/s-macke/Test-Drive-3-Maps",
+    "date": "2026-06-03",
+    "id": 1290
+  },
+  {
+    "title": "PlayStation Architecture",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.copetti.org/writings/consoles/playstation/",
+    "date": "2026-06-03",
+    "id": 1291
+  },
+  {
+    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/c0dejedi/nbd-vram",
+    "date": "2026-06-03",
+    "id": 1292
+  },
+  {
+    "title": "MAI-Code-1-Flash",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "date": "2026-06-03",
+    "id": 1293
+  },
+  {
+    "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+    "date": "2026-06-03",
+    "id": 1294
+  },
+  {
+    "title": "AI outperforms law professors in Stanford Law study",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "date": "2026-06-03",
+    "id": 1295
   }
 ]
