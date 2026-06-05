@@ -9133,5 +9133,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/engineering/how-we-contain-claude",
     "date": "2026-06-04",
     "id": 1305
+  },
+  {
+    "title": "No Starch Press Humble Bundle: Grab a Deal and Support the PSF!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/06/no-starch-press-humble-bundle-grab-deal.html",
+    "date": "2026-06-02",
+    "id": 1306
+  },
+  {
+    "title": "Changing How We Develop Ladybird",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "date": "2026-06-05",
+    "id": 1307
+  },
+  {
+    "title": "Tracing a powerful GNSS interference source over Europe",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2606.03673",
+    "date": "2026-06-05",
+    "id": 1308
+  },
+  {
+    "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+    "date": "2026-06-05",
+    "id": 1309
+  },
+  {
+    "title": "databow: a Rust CLI to query any database with an ADBC driver",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://columnar.tech/blog/introducing-databow//",
+    "date": "2026-06-05",
+    "id": 1310
+  },
+  {
+    "title": "Meta enables ADB on deprecated Portal devices [video]",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fb.watch/HxPu0fSyeH/",
+    "date": "2026-06-05",
+    "id": 1311
+  },
+  {
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://passo.uno/fine-tuning-docs-llm/",
+    "date": "2026-06-05",
+    "id": 1312
+  },
+  {
+    "title": "C++: The Documentary",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "date": "2026-06-05",
+    "id": 1313
+  },
+  {
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/anthropics/defending-code-reference-harness",
+    "date": "2026-06-05",
+    "id": 1314
+  },
+  {
+    "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://isupmap.com/",
+    "date": "2026-06-05",
+    "id": 1315
+  },
+  {
+    "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+    "date": "2026-06-05",
+    "id": 1316
   }
 ]
