@@ -9490,5 +9490,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://vorpus.github.io/performativeUI/",
     "date": "2026-06-09",
     "id": 1356
+  },
+  {
+    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "date": "2026-06-10",
+    "id": 1357
+  },
+  {
+    "title": "macOS Container Machines",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "date": "2026-06-10",
+    "id": 1358
+  },
+  {
+    "title": "Claude Fable 5",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "date": "2026-06-10",
+    "id": 1359
+  },
+  {
+    "title": "Port React Compiler to Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/react/react/pull/36173",
+    "date": "2026-06-10",
+    "id": 1360
+  },
+  {
+    "title": "Upcoming breaking changes for npm v12",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "date": "2026-06-10",
+    "id": 1361
+  },
+  {
+    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: item?id=48473166",
+    "date": "2026-06-10",
+    "id": 1362
+  },
+  {
+    "title": "Rich Sutton on AI creativity and discovery",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "date": "2026-06-10",
+    "id": 1363
+  },
+  {
+    "title": "Reviving Papers with Code",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://paperswithcode.co/",
+    "date": "2026-06-10",
+    "id": 1364
+  },
+  {
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "date": "2026-06-10",
+    "id": 1365
+  },
+  {
+    "title": "RIP software hackathons. Long live the hardware hackathon",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "date": "2026-06-10",
+    "id": 1366
   }
 ]
