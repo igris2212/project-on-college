@@ -9847,5 +9847,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://tribblix.org/",
     "date": "2026-06-14",
     "id": 1407
+  },
+  {
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+    "date": "2026-06-15",
+    "id": 1408
+  },
+  {
+    "title": "Your ePub Is fine",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "date": "2026-06-15",
+    "id": 1409
+  },
+  {
+    "title": "What the Fuck Happened to Nerds",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "date": "2026-06-15",
+    "id": 1410
+  },
+  {
+    "title": "Apple Foundation Models",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "date": "2026-06-15",
+    "id": 1411
+  },
+  {
+    "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
+    "date": "2026-06-15",
+    "id": 1412
+  },
+  {
+    "title": "Ported my C game to WASM, here's everybug that I hit",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
+    "date": "2026-06-15",
+    "id": 1413
+  },
+  {
+    "title": "Anthropic's Safety Superpower",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://stratechery.com/2026/anthropics-safety-superpower/",
+    "date": "2026-06-15",
+    "id": 1414
+  },
+  {
+    "title": "Openrouter Fusion API",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openrouter.ai/openrouter/fusion",
+    "date": "2026-06-15",
+    "id": 1415
+  },
+  {
+    "title": "Even more batteries included with Emacs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "date": "2026-06-15",
+    "id": 1416
+  },
+  {
+    "title": "Asciline – real-time ASCII video rendering engine",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/YusufB5/ASCILINE",
+    "date": "2026-06-15",
+    "id": 1417
   }
 ]
