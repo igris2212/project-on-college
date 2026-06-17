@@ -9987,5 +9987,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: item?id=48542100",
     "date": "2026-06-16",
     "id": 1427
+  },
+  {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "date": "2026-06-17",
+    "id": 1428
+  },
+  {
+    "title": "Show HN: High-Res Neural Cellular Automata",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cells2pixels.github.io/",
+    "date": "2026-06-17",
+    "id": 1429
+  },
+  {
+    "title": "RFC 10008: The new HTTP Query Method",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.rfc-editor.org/info/rfc10008/",
+    "date": "2026-06-17",
+    "id": 1430
+  },
+  {
+    "title": "GrapheneOS has been ported to Android 17",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "date": "2026-06-17",
+    "id": 1431
+  },
+  {
+    "title": "Running local models is good now",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "date": "2026-06-17",
+    "id": 1432
+  },
+  {
+    "title": "Hacker News but for Independent Blogs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bubbles.town/",
+    "date": "2026-06-17",
+    "id": 1433
+  },
+  {
+    "title": "Show HN: Capacitor Alarm Clock",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/ArcaEge/capacitor-alarm-clock",
+    "date": "2026-06-17",
+    "id": 1434
+  },
+  {
+    "title": "U.S. Science Is in Chaos",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+    "date": "2026-06-17",
+    "id": 1435
+  },
+  {
+    "title": "Humiliating IIS servers for fun and jail time",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "date": "2026-06-17",
+    "id": 1436
+  },
+  {
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "date": "2026-06-17",
+    "id": 1437
   }
 ]
