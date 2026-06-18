@@ -10057,5 +10057,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "date": "2026-06-17",
     "id": 1437
+  },
+  {
+    "title": "Python 3.14.6 and 3.13.14 are now available!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/06/python-3146-31314/",
+    "date": "2026-06-10",
+    "id": 1438
+  },
+  {
+    "title": "Midjourney Medical",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.midjourney.com/medical/blogpost",
+    "date": "2026-06-18",
+    "id": 1439
+  },
+  {
+    "title": "I need your clothes, your boots, and your motorcycle",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://rbelmont.mameworld.info/?p=1725",
+    "date": "2026-06-18",
+    "id": 1440
+  },
+  {
+    "title": "DeepSeek Introduces Vision",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://chat.deepseek.com/",
+    "date": "2026-06-18",
+    "id": 1441
+  },
+  {
+    "title": "Local Qwen isn't a worse Opus, it's a different tool",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.alexellis.io/local-ai-is-not-opus/",
+    "date": "2026-06-18",
+    "id": 1442
+  },
+  {
+    "title": "Lore – Open source version control system designed for scalability",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lore.org/",
+    "date": "2026-06-18",
+    "id": 1443
+  },
+  {
+    "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "date": "2026-06-18",
+    "id": 1444
+  },
+  {
+    "title": "I hate compilers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "date": "2026-06-18",
+    "id": 1445
+  },
+  {
+    "title": "The Forge We Deserve",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+    "date": "2026-06-18",
+    "id": 1446
+  },
+  {
+    "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+    "date": "2026-06-18",
+    "id": 1447
+  },
+  {
+    "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+    "date": "2026-06-18",
+    "id": 1448
   }
 ]
