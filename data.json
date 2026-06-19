@@ -10134,5 +10134,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
     "date": "2026-06-18",
     "id": 1448
+  },
+  {
+    "title": "Everything Security at PyCon US 2026",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/06/everything-security-at-pycon-us-2026.html",
+    "date": "2026-06-17",
+    "id": 1449
+  },
+  {
+    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "date": "2026-06-19",
+    "id": 1450
+  },
+  {
+    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "date": "2026-06-19",
+    "id": 1451
+  },
+  {
+    "title": "To study how chips work, MIT researchers built their own operating system",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+    "date": "2026-06-19",
+    "id": 1452
+  },
+  {
+    "title": "So You Want to Define a Well-Known URI",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mnot.net/blog/2026/well_known_uris",
+    "date": "2026-06-19",
+    "id": 1453
+  },
+  {
+    "title": "Zen and the Art of Machine Learning Research",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "date": "2026-06-19",
+    "id": 1454
+  },
+  {
+    "title": "Ten years of ClickHouse in open source",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://clickhouse.com/blog/open-source-10",
+    "date": "2026-06-19",
+    "id": 1455
+  },
+  {
+    "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+    "date": "2026-06-19",
+    "id": 1456
+  },
+  {
+    "title": "I found 10k GitHub repositories distributing Trojan malware",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://orchidfiles.com/github-repositories-distributing-malware/",
+    "date": "2026-06-19",
+    "id": 1457
+  },
+  {
+    "title": "The Raku Foundation is born",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://raku.foundation",
+    "date": "2026-06-19",
+    "id": 1458
+  },
+  {
+    "title": "Zero-Touch OAuth for MCP",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "date": "2026-06-19",
+    "id": 1459
   }
 ]
