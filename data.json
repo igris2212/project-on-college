@@ -10281,5 +10281,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
     "date": "2026-06-20",
     "id": 1469
+  },
+  {
+    "title": "Google Hits 50% IPv6",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "date": "2026-06-21",
+    "id": 1470
+  },
+  {
+    "title": "A 3D voxel game engine written in APL",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/namgyaaal/avoxelgame",
+    "date": "2026-06-21",
+    "id": 1471
+  },
+  {
+    "title": "Developers don't understand CORS (2019)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fosterelli.co/developers-dont-understand-cors",
+    "date": "2026-06-21",
+    "id": 1472
+  },
+  {
+    "title": "Zigzag Decoding with AVX-512",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+    "date": "2026-06-21",
+    "id": 1473
+  },
+  {
+    "title": "NSA director: 'Mythos \"broke into almost all of our classified systems in hours\"",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.economist.com/briefing/2026/06/14/donald-trumps-blocking-of-anthropic-is-capricious-and-chaotic",
+    "date": "2026-06-21",
+    "id": 1474
+  },
+  {
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/mysk-research/loupe",
+    "date": "2026-06-21",
+    "id": 1475
+  },
+  {
+    "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://taoofmac.com/space/blog/2026/06/18/1845",
+    "date": "2026-06-21",
+    "id": 1476
+  },
+  {
+    "title": "Renting a sewing machine from the library",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "date": "2026-06-21",
+    "id": 1477
+  },
+  {
+    "title": "Epoll vs. io_uring in Linux",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sibexi.co/posts/epoll-vs-io_uring/",
+    "date": "2026-06-21",
+    "id": 1478
+  },
+  {
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "date": "2026-06-21",
+    "id": 1479
   }
 ]
