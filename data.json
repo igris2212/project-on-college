@@ -10351,5 +10351,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
     "date": "2026-06-21",
     "id": 1479
+  },
+  {
+    "title": "Deno Desktop",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://docs.deno.com/runtime/desktop/",
+    "date": "2026-06-22",
+    "id": 1480
+  },
+  {
+    "title": "GLM 5.2 vs. Opus",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "date": "2026-06-22",
+    "id": 1481
+  },
+  {
+    "title": "Codex logging bug may write TBs to local SSDs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/openai/codex/issues/28224",
+    "date": "2026-06-22",
+    "id": 1482
+  },
+  {
+    "title": "Help I accidentally a wigglegram",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lmao.center/blog/wiggle-accidents/",
+    "date": "2026-06-22",
+    "id": 1483
+  },
+  {
+    "title": "Did my old job only exist because of fraud?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "date": "2026-06-22",
+    "id": 1484
+  },
+  {
+    "title": "Investors get real-time view of UK bond market activity for the first time",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+    "date": "2026-06-22",
+    "id": 1485
+  },
+  {
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://apertvs.ai/",
+    "date": "2026-06-22",
+    "id": 1486
+  },
+  {
+    "title": "Munich 1991: The Roots of the Current AI Boom",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "date": "2026-06-22",
+    "id": 1487
+  },
+  {
+    "title": "The Story of Semicolon",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sheets.works/data-viz/semicolon",
+    "date": "2026-06-22",
+    "id": 1488
+  },
+  {
+    "title": "There is minimal downside to switching to open models",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.marble.onl/posts/cancel_claude.html",
+    "date": "2026-06-22",
+    "id": 1489
   }
 ]
