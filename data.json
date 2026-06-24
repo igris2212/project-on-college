@@ -10491,5 +10491,96 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
     "date": "2026-06-23",
     "id": 1499
+  },
+  {
+    "title": "Mitigated API authentication bypass for python.org download metadata",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org/",
+    "date": "2026-06-23",
+    "id": 1500
+  },
+  {
+    "title": "Python 3.15.0 beta 3 is here!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/06/python-3150-beta-3/",
+    "date": "2026-06-23",
+    "id": 1501
+  },
+  {
+    "title": "PSF Board Election Dates for 2026",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/06/psf-board-election-dates-for-2026.html",
+    "date": "2026-06-18",
+    "id": 1502
+  },
+  {
+    "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bunny.net/blog/were-making-bunny-dns-free/",
+    "date": "2026-06-24",
+    "id": 1503
+  },
+  {
+    "title": "Vulnerability reports are not special anymore",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://words.filippo.io/vuln-reports/",
+    "date": "2026-06-24",
+    "id": 1504
+  },
+  {
+    "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gitlab.com/baiyibai/pico-usb-wifi",
+    "date": "2026-06-24",
+    "id": 1505
+  },
+  {
+    "title": "Jerry's Map",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://www.jerrysmap.com/the-map",
+    "date": "2026-06-24",
+    "id": 1506
+  },
+  {
+    "title": "In memory of the man who put red and green squiggles under words",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+    "date": "2026-06-24",
+    "id": 1507
+  },
+  {
+    "title": "Why eval startups fail (2025)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://thomasliao.com/eval-startups",
+    "date": "2026-06-24",
+    "id": 1508
+  },
+  {
+    "title": "FUTO Swipe – A new swipe typing model",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://swipe.futo.tech/",
+    "date": "2026-06-24",
+    "id": 1509
+  },
+  {
+    "title": "Show HN: An ASCII 3D Rendering Engine",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://glyphcss.com",
+    "date": "2026-06-24",
+    "id": 1510
+  },
+  {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2606.24597",
+    "date": "2026-06-24",
+    "id": 1511
+  },
+  {
+    "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://artificialanalysis.ai/models/grok-build-0-1-06-16",
+    "date": "2026-06-24",
+    "id": 1512
   }
 ]
