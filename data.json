@@ -10792,5 +10792,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fusion-lang.org/",
     "date": "2026-06-27",
     "id": 1542
+  },
+  {
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "date": "2026-06-28",
+    "id": 1543
+  },
+  {
+    "title": "Bashblog – a single bash script to create blogs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/cfenollosa/bashblog",
+    "date": "2026-06-28",
+    "id": 1544
+  },
+  {
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/itsthelore/wayfinder-router",
+    "date": "2026-06-28",
+    "id": 1545
+  },
+  {
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "date": "2026-06-28",
+    "id": 1546
+  },
+  {
+    "title": "OpenRA",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.openra.net/",
+    "date": "2026-06-28",
+    "id": 1547
+  },
+  {
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://decomp-academy.dev",
+    "date": "2026-06-28",
+    "id": 1548
+  },
+  {
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/bikini/exploitarium",
+    "date": "2026-06-28",
+    "id": 1549
+  },
+  {
+    "title": "Choosing a Public DNS Resolver",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://evilbit.de/dns-resolver-guide.html",
+    "date": "2026-06-28",
+    "id": 1550
+  },
+  {
+    "title": "Engineering for Bounded Cognition",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "date": "2026-06-28",
+    "id": 1551
+  },
+  {
+    "title": "Reflecting to optimise",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://magnusross.github.io/posts/reflecting-to-optimise/",
+    "date": "2026-06-28",
+    "id": 1552
   }
 ]
