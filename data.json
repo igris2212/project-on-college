@@ -10932,5 +10932,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://pudding.cool/2026/06/menu-story/",
     "date": "2026-06-29",
     "id": 1562
+  },
+  {
+    "title": "Packaging Council Inaugural Election Dates",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/06/2026-packaging-council-election-dates/",
+    "date": "2026-06-28",
+    "id": 1563
+  },
+  {
+    "title": "Open Source Low Tech",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://opensourcelowtech.org/",
+    "date": "2026-06-30",
+    "id": 1564
+  },
+  {
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://quesma.com/blog/qwen-36-is-awesome/",
+    "date": "2026-06-30",
+    "id": 1565
+  },
+  {
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "date": "2026-06-30",
+    "id": 1566
+  },
+  {
+    "title": "Free the Icons",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+    "date": "2026-06-30",
+    "id": 1567
+  },
+  {
+    "title": "The operating cost starts after the demo",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://twoheads.net/the-promise-is-unattended-work/",
+    "date": "2026-06-30",
+    "id": 1568
+  },
+  {
+    "title": "Building a custom octocopter from scratch with no prior hardware experience",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://karolina.mgdubiel.com/drone/",
+    "date": "2026-06-30",
+    "id": 1569
+  },
+  {
+    "title": "Antares Achieves Criticality of Mark-0 Reactor",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://antaresindustries.com/updates/antares-achieves-criticality",
+    "date": "2026-06-30",
+    "id": 1570
+  },
+  {
+    "title": "Memory Safe Context Switching",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fil-c.org/context_switches",
+    "date": "2026-06-30",
+    "id": 1571
+  },
+  {
+    "title": "The end of the AArch64 desktop experiment",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "date": "2026-06-30",
+    "id": 1572
+  },
+  {
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://longcat.chat/blog/longcat-2.0/",
+    "date": "2026-06-30",
+    "id": 1573
   }
 ]
