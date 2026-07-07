@@ -11436,5 +11436,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://kyrall.com/",
     "date": "2026-07-06",
     "id": 1634
+  },
+  {
+    "title": "OpenWrt One – Open Hardware Router",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openwrt.org/toh/openwrt/one",
+    "date": "2026-07-07",
+    "id": 1635
+  },
+  {
+    "title": "CoMaps – FOSS Offline Maps",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.comaps.app/",
+    "date": "2026-07-07",
+    "id": 1636
+  },
+  {
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "date": "2026-07-07",
+    "id": 1637
+  },
+  {
+    "title": "How to sequence your own DNA at home",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "date": "2026-07-07",
+    "id": 1638
+  },
+  {
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "date": "2026-07-07",
+    "id": 1639
+  },
+  {
+    "title": "Dolosse – a South African invention used over the world",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+    "date": "2026-07-07",
+    "id": 1640
+  },
+  {
+    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/MaximeRivest/Riddle",
+    "date": "2026-07-07",
+    "id": 1641
+  },
+  {
+    "title": "Microsoft Can Track Users via a Windows Device ID",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "date": "2026-07-07",
+    "id": 1642
+  },
+  {
+    "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jobs.ashbyhq.com/lago",
+    "date": "2026-07-07",
+    "id": 1643
+  },
+  {
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ternlight-demo.vercel.app/",
+    "date": "2026-07-07",
+    "id": 1644
   }
 ]
