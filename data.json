@@ -11506,5 +11506,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ternlight-demo.vercel.app/",
     "date": "2026-07-07",
     "id": 1644
+  },
+  {
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "date": "2026-07-08",
+    "id": 1645
+  },
+  {
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "date": "2026-07-08",
+    "id": 1646
+  },
+  {
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "date": "2026-07-08",
+    "id": 1647
+  },
+  {
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://kb.cert.org/vuls/id/213560",
+    "date": "2026-07-08",
+    "id": 1648
+  },
+  {
+    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.digipres.org/the-floppy-guide/",
+    "date": "2026-07-08",
+    "id": 1649
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "date": "2026-07-08",
+    "id": 1650
+  },
+  {
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.gao.gov/products/gao-26-108193",
+    "date": "2026-07-08",
+    "id": 1651
+  },
+  {
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fightchatcontrol.eu/chat-control-overview",
+    "date": "2026-07-08",
+    "id": 1652
+  },
+  {
+    "title": "Canada's only watchmaking school still ticking after 80 years",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+    "date": "2026-07-08",
+    "id": 1653
+  },
+  {
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "date": "2026-07-08",
+    "id": 1654
   }
 ]
