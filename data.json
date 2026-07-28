@@ -12962,5 +12962,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
     "date": "2026-07-27",
     "id": 1852
+  },
+  {
+    "title": "Get Ready: Python Packaging Council Nominations Opening Soon!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/07/get-ready-python-packaging-council.html",
+    "date": "2026-07-23",
+    "id": 1853
+  },
+  {
+    "title": "7.1 Earthquake in Japan",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "date": "2026-07-28",
+    "id": 1854
+  },
+  {
+    "title": "Our position on open-weights models",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.anthropic.com/news/position-open-weights-models",
+    "date": "2026-07-28",
+    "id": 1855
+  },
+  {
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fermisense.com/when-machines-take-the-wheel/",
+    "date": "2026-07-28",
+    "id": 1856
+  },
+  {
+    "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arsastronomica.com/",
+    "date": "2026-07-28",
+    "id": 1857
+  },
+  {
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "date": "2026-07-28",
+    "id": 1858
+  },
+  {
+    "title": "Vehicle Motion Cues",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+    "date": "2026-07-28",
+    "id": 1859
+  },
+  {
+    "title": "Using an open model feels surprisingly good",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+    "date": "2026-07-28",
+    "id": 1860
+  },
+  {
+    "title": "Neutrino-1 8B",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.fermionresearch.com/models/neutrino-8b/",
+    "date": "2026-07-28",
+    "id": 1861
+  },
+  {
+    "title": "PyTorch: A Reference Language",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+    "date": "2026-07-28",
+    "id": 1862
+  },
+  {
+    "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+    "date": "2026-07-28",
+    "id": 1863
   }
 ]
