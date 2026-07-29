@@ -13039,5 +13039,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gpusolutions.net/rbservices/graphics-card-upgrade/",
     "date": "2026-07-28",
     "id": 1863
+  },
+  {
+    "title": "Announcing Python Software Foundation Fellow Members for Q2 2026! 🎉",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/07/announcing-python-software-foundation.html",
+    "date": "2026-07-27",
+    "id": 1864
+  },
+  {
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "date": "2026-07-29",
+    "id": 1865
+  },
+  {
+    "title": "User Interfaces of the Demo Scene",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.datagubbe.se/scenegui/",
+    "date": "2026-07-29",
+    "id": 1866
+  },
+  {
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "date": "2026-07-29",
+    "id": 1867
+  },
+  {
+    "title": "Lisp moving Forth moving Lisp",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://letoverlambda.com/textmode.cl/guest/chap8.html",
+    "date": "2026-07-29",
+    "id": 1868
+  },
+  {
+    "title": "Codex Security",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/openai/codex-security",
+    "date": "2026-07-29",
+    "id": 1869
+  },
+  {
+    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/twalichiewicz/HNewhere",
+    "date": "2026-07-29",
+    "id": 1870
+  },
+  {
+    "title": "Substack writers, you need a website",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "date": "2026-07-29",
+    "id": 1871
+  },
+  {
+    "title": "Half-Life ported to Mac OS 9",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+    "date": "2026-07-29",
+    "id": 1872
+  },
+  {
+    "title": "Cracking Windows Open: Porting RADV to Win32",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+    "date": "2026-07-29",
+    "id": 1873
+  },
+  {
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://learnvector.ai/",
+    "date": "2026-07-29",
+    "id": 1874
   }
 ]
