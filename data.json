@@ -13396,5 +13396,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
     "date": "2026-08-02",
     "id": 1914
+  },
+  {
+    "title": "Don't be a meat proxy",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://gruhn.me/blog/2026-08-03/",
+    "date": "2026-08-03",
+    "id": 1915
+  },
+  {
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "date": "2026-08-03",
+    "id": 1916
+  },
+  {
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://qwen.ai/blog?id=qwen3.8",
+    "date": "2026-08-03",
+    "id": 1917
+  },
+  {
+    "title": "Bonsai: Janestreet's UI Library",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/janestreet/bonsai",
+    "date": "2026-08-03",
+    "id": 1918
+  },
+  {
+    "title": "Less Coffee, Better Sleep",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.marginalia.nu/log/a_109_sleep2/",
+    "date": "2026-08-03",
+    "id": 1919
+  },
+  {
+    "title": "What DMARC Protects You From, and What It Does Not",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+    "date": "2026-08-03",
+    "id": 1920
+  },
+  {
+    "title": "Rust project goals: Immobile types and guaranteed destructors",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+    "date": "2026-08-03",
+    "id": 1921
+  },
+  {
+    "title": "Octane – React's programming model, compiled",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://octanejs.dev",
+    "date": "2026-08-03",
+    "id": 1922
+  },
+  {
+    "title": "Show HN: Isopolis – Isometric pixel map of SF",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sf.isopolis.city/",
+    "date": "2026-08-03",
+    "id": 1923
+  },
+  {
+    "title": "The AI Productivity Gap",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "date": "2026-08-03",
+    "id": 1924
   }
 ]
