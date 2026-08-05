@@ -13529,5 +13529,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: item?id=49156683",
     "date": "2026-08-04",
     "id": 1933
+  },
+  {
+    "title": "Announcing a 2026 PSF Grants Program Funding Round",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/07/announcing-2026-psf-grants-program.html",
+    "date": "2026-07-28",
+    "id": 1934
+  },
+  {
+    "title": "Stateless MCP has recaptured my interest",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "date": "2026-08-05",
+    "id": 1935
+  },
+  {
+    "title": "“Gravity is worth asking about”",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "date": "2026-08-05",
+    "id": 1936
+  },
+  {
+    "title": "Pi's Minimalism Is Its Advantage",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "date": "2026-08-05",
+    "id": 1937
+  },
+  {
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2607.29377",
+    "date": "2026-08-05",
+    "id": 1938
+  },
+  {
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mistral.ai/news/shieldstral/",
+    "date": "2026-08-05",
+    "id": 1939
+  },
+  {
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://toneyalexander.github.io/inclusive-color-space/",
+    "date": "2026-08-05",
+    "id": 1940
+  },
+  {
+    "title": "The Pneumatics of Hero of Alexandria",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+    "date": "2026-08-05",
+    "id": 1941
+  },
+  {
+    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "date": "2026-08-05",
+    "id": 1942
+  },
+  {
+    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://deepgrove.ai/maple-preview",
+    "date": "2026-08-05",
+    "id": 1943
+  },
+  {
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+    "date": "2026-08-05",
+    "id": 1944
   }
 ]
