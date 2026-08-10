@@ -13893,5 +13893,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nature.com/articles/s44184-025-00171-5",
     "date": "2026-08-09",
     "id": 1985
+  },
+  {
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.docker.com/products/docker-sandboxes/",
+    "date": "2026-08-10",
+    "id": 1986
+  },
+  {
+    "title": "What Happened to HackerOne?",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "date": "2026-08-10",
+    "id": 1987
+  },
+  {
+    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/shinyquagsire23/Klepton",
+    "date": "2026-08-10",
+    "id": 1988
+  },
+  {
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.whodunnitai.com/",
+    "date": "2026-08-10",
+    "id": 1989
+  },
+  {
+    "title": "How I use LLMs to learn complex topics",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "date": "2026-08-10",
+    "id": 1990
+  },
+  {
+    "title": "Auto mode is now the default in Claude Code",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://claude.com/blog/auto-mode-default-in-claude-code",
+    "date": "2026-08-10",
+    "id": 1991
+  },
+  {
+    "title": "An Interesting Fourier Transform – 1/F Noise",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.dsprelated.com/showarticle/40.php",
+    "date": "2026-08-10",
+    "id": 1992
+  },
+  {
+    "title": "Turn satellite imagery into a paper globe you fold yourself",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://foldingglobes.com/",
+    "date": "2026-08-10",
+    "id": 1993
+  },
+  {
+    "title": "How We Pushed CDC into Postgres",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+    "date": "2026-08-10",
+    "id": 1994
+  },
+  {
+    "title": "Taxi drivers rarely die of Alzheimer's",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+    "date": "2026-08-10",
+    "id": 1995
   }
 ]
