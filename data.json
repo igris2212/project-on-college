@@ -14103,5 +14103,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
     "date": "2026-08-12",
     "id": 2015
+  },
+  {
+    "title": "Python 3.14.7 and 3.13.15 are now available!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://blog.python.org/2026/08/python-3147-31315/",
+    "date": "2026-08-05",
+    "id": 2016
+  },
+  {
+    "title": "DeepSeek V4 Pro 0813",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "date": "2026-08-13",
+    "id": 2017
+  },
+  {
+    "title": "Mushroom behind 'tiny people' hallucinations identified",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+    "date": "2026-08-13",
+    "id": 2018
+  },
+  {
+    "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "date": "2026-08-13",
+    "id": 2019
+  },
+  {
+    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/codex/",
+    "date": "2026-08-13",
+    "id": 2020
+  },
+  {
+    "title": "Delta",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://zed.dev/blog/introducing-delta",
+    "date": "2026-08-13",
+    "id": 2021
+  },
+  {
+    "title": "Qwen3.8-2.4T",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "date": "2026-08-13",
+    "id": 2022
+  },
+  {
+    "title": "Principia Mathematica is modern and insightful",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "date": "2026-08-13",
+    "id": 2023
+  },
+  {
+    "title": "Antiqua–Fraktur dispute",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+    "date": "2026-08-13",
+    "id": 2024
+  },
+  {
+    "title": "2026 Eclipse Webcams",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jonty.github.io/2026_eclipse_webcams/",
+    "date": "2026-08-13",
+    "id": 2025
+  },
+  {
+    "title": "Flutter 3.47",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://flutter.dev/blog/whats-new-in-flutter-3-47",
+    "date": "2026-08-13",
+    "id": 2026
   }
 ]
