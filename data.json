@@ -14761,5 +14761,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jsomers.net/i-should-have-loved-biology/",
     "date": "2026-08-21",
     "id": 2109
+  },
+  {
+    "title": "Felony Bench",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.felonybench.com/",
+    "date": "2026-08-22",
+    "id": 2110
+  },
+  {
+    "title": "Rust Glancer: Rust LSP using 100x less RAM",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://rust-glancer.github.io/blog/hello-world/",
+    "date": "2026-08-22",
+    "id": 2111
+  },
+  {
+    "title": "Kobo can run apps now",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bandarlabs.github.io/Cobalt/",
+    "date": "2026-08-22",
+    "id": 2112
+  },
+  {
+    "title": "There's no reason for software to be slow anymore",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://danluu.com/perf-opt/",
+    "date": "2026-08-22",
+    "id": 2113
+  },
+  {
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "date": "2026-08-22",
+    "id": 2114
+  },
+  {
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "date": "2026-08-22",
+    "id": 2115
+  },
+  {
+    "title": "Three important steps in my maturation process",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "date": "2026-08-22",
+    "id": 2116
+  },
+  {
+    "title": "Zig’s io.threaded is neat",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "date": "2026-08-22",
+    "id": 2117
+  },
+  {
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://kagi.com/changelog#11296",
+    "date": "2026-08-22",
+    "id": 2118
+  },
+  {
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lina.sh/blog/hijacking-e164-arpa",
+    "date": "2026-08-22",
+    "id": 2119
   }
 ]
