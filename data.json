@@ -14831,5 +14831,82 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lina.sh/blog/hijacking-e164-arpa",
     "date": "2026-08-22",
     "id": 2119
+  },
+  {
+    "title": "How AWS Powers PyPI and the PSF",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/08/how-aws-powers-pypi-and-psf.html",
+    "date": "2026-08-19",
+    "id": 2120
+  },
+  {
+    "title": "The End of an Athlon",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: http://www.os2museum.com/wp/the-end-of-an-athlon/",
+    "date": "2026-08-23",
+    "id": 2121
+  },
+  {
+    "title": "JIT Compiling Code in 5μs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://malisper.me/jit-compiling-code-in-5-us/",
+    "date": "2026-08-23",
+    "id": 2122
+  },
+  {
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://martypc.net/",
+    "date": "2026-08-23",
+    "id": 2123
+  },
+  {
+    "title": "The Golden Rule for Becoming a Better Writer",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "date": "2026-08-23",
+    "id": 2124
+  },
+  {
+    "title": "I Dream of Quieter Computing",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "date": "2026-08-23",
+    "id": 2125
+  },
+  {
+    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+    "date": "2026-08-23",
+    "id": 2126
+  },
+  {
+    "title": "Why your local LLM feels dumber than it is",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "date": "2026-08-23",
+    "id": 2127
+  },
+  {
+    "title": "Scrap (2006)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://twitter.com/moxie/status/2091218652133732491",
+    "date": "2026-08-23",
+    "id": 2128
+  },
+  {
+    "title": "The Art and Beauty of Blade Runner (2015)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "date": "2026-08-23",
+    "id": 2129
+  },
+  {
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://quantumi.sh/public/labs.html",
+    "date": "2026-08-23",
+    "id": 2130
   }
 ]
