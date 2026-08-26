@@ -15055,5 +15055,110 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/dragthelake/ambient-context",
     "date": "2026-08-25",
     "id": 2151
+  },
+  {
+    "title": "Petr Andreev: 2026 PSF Board Election Candidate Interview",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/08/petr-andreev-2026-psf-board-election.html",
+    "date": "2026-08-25",
+    "id": 2152
+  },
+  {
+    "title": "Nina Zakharenko: 2026 PSF Board Election Candidate Interview",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/08/nina-zakharenko-2026-psf-board-election.html",
+    "date": "2026-08-25",
+    "id": 2153
+  },
+  {
+    "title": "Keith Murray: 2026 PSF Board Election Candidate Interview",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/08/keith-murray-2026-psf-board-election.html",
+    "date": "2026-08-25",
+    "id": 2154
+  },
+  {
+    "title": "Karo Ladino-Puerto: 2026 PSF Board Election Candidate Interview",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/08/karo-ladino-puerto-2026-psf-board.html",
+    "date": "2026-08-25",
+    "id": 2155
+  },
+  {
+    "title": "Kalyan Prasad: 2026 PSF Board Election Candidate Interview",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/08/kalyan-prasad-2026-psf-board-election.html",
+    "date": "2026-08-25",
+    "id": 2156
+  },
+  {
+    "title": "Apple introduces M6 and M5 Ultra",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "date": "2026-08-26",
+    "id": 2157
+  },
+  {
+    "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.youtube.com/watch?v=656058JxTM0",
+    "date": "2026-08-26",
+    "id": 2158
+  },
+  {
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "date": "2026-08-26",
+    "id": 2159
+  },
+  {
+    "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+    "date": "2026-08-26",
+    "id": 2160
+  },
+  {
+    "title": "Queryable Executables",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "date": "2026-08-26",
+    "id": 2161
+  },
+  {
+    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "date": "2026-08-26",
+    "id": 2162
+  },
+  {
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "date": "2026-08-26",
+    "id": 2163
+  },
+  {
+    "title": "Black hole singularity is a surface not a point",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://arxiv.org/abs/2608.21590",
+    "date": "2026-08-26",
+    "id": 2164
+  },
+  {
+    "title": "New Mac mini, featuring M6 and M5 Pro",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+    "date": "2026-08-26",
+    "id": 2165
+  },
+  {
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/runetes/maiao",
+    "date": "2026-08-26",
+    "id": 2166
   }
 ]
