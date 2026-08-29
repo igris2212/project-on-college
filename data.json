@@ -15300,5 +15300,54 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
     "date": "2026-08-28",
     "id": 2186
+  },
+  {
+    "title": "Iceland votes on whether to restart talks on joining EU",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.bbc.com/news/articles/cn45vdxyvvlo",
+    "date": "2026-08-29",
+    "id": 2187
+  },
+  {
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "date": "2026-08-29",
+    "id": 2188
+  },
+  {
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/Lakr233/vphone-cli",
+    "date": "2026-08-29",
+    "id": 2189
+  },
+  {
+    "title": "Europe's last regular standard-gauge steam passenger service",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://parowozowniawolsztyn.pl/?page_id=2141",
+    "date": "2026-08-29",
+    "id": 2190
+  },
+  {
+    "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+    "date": "2026-08-29",
+    "id": 2191
+  },
+  {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/stemdeckapp/stemdeck",
+    "date": "2026-08-29",
+    "id": 2192
+  },
+  {
+    "title": "I accidentally turned LLM memory into program analysis",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://pwning.systems/posts/llm-memory-program-analysis/",
+    "date": "2026-08-29",
+    "id": 2193
   }
 ]
