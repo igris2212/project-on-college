@@ -16714,5 +16714,89 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://mimo.xiaomi.com/rl/",
     "date": "2026-09-17",
     "id": 2388
+  },
+  {
+    "title": "Announcing the 2026 Python Packaging Council Election Results!",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/09/announcing-2026-python-packaging.html",
+    "date": "2026-09-17",
+    "id": 2389
+  },
+  {
+    "title": "Announcing the PSF Strategic Plan 2026",
+    "category": "Язык Программирование",
+    "content": "Краткое содержание недоступно (не удалось найти блок текста).\n\nПолный источник: https://pyfound.blogspot.com/2026/09/announcing-psf-strategic-plan-2026.html",
+    "date": "2026-09-15",
+    "id": 2390
+  },
+  {
+    "title": "OpenJev",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openjev.com/",
+    "date": "2026-09-18",
+    "id": 2391
+  },
+  {
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "date": "2026-09-18",
+    "id": 2392
+  },
+  {
+    "title": "Jemalloc 5.4.0",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "date": "2026-09-18",
+    "id": 2393
+  },
+  {
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "date": "2026-09-18",
+    "id": 2394
+  },
+  {
+    "title": "The scourge of x86 emulation",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://fex-emu.com/Scourge-of-emulation/",
+    "date": "2026-09-18",
+    "id": 2395
+  },
+  {
+    "title": "Cekura (YC F24) Is Hiring",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+    "date": "2026-09-18",
+    "id": 2396
+  },
+  {
+    "title": "Astra for Law",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://openai.com/index/astra-for-law/",
+    "date": "2026-09-18",
+    "id": 2397
+  },
+  {
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://prismml.com/news/bonsai-2-27b",
+    "date": "2026-09-18",
+    "id": 2398
+  },
+  {
+    "title": "Replacing Pull Requests with Delta",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://zed.dev/blog/delta-public-beta",
+    "date": "2026-09-18",
+    "id": 2399
+  },
+  {
+    "title": "Subnormal floating-point numbers are expensive on Intel processors",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "date": "2026-09-18",
+    "id": 2400
   }
 ]
