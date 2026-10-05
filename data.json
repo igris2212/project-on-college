@@ -17918,5 +17918,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://liao.gg/blog/agents-dont-need-memory",
     "date": "2026-10-04",
     "id": 2560
+  },
+  {
+    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+    "date": "2026-10-05",
+    "id": 2561
+  },
+  {
+    "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+    "date": "2026-10-05",
+    "id": 2562
+  },
+  {
+    "title": "Web Search API",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "date": "2026-10-05",
+    "id": 2563
+  },
+  {
+    "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+    "date": "2026-10-05",
+    "id": 2564
+  },
+  {
+    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+    "date": "2026-10-05",
+    "id": 2565
+  },
+  {
+    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+    "date": "2026-10-05",
+    "id": 2566
+  },
+  {
+    "title": "Differences Between `Foldl` and `Foldr`",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://blog.haskell.org/foldl-and-foldr/",
+    "date": "2026-10-05",
+    "id": 2567
+  },
+  {
+    "title": "Type Safe Generic Data Structures in C",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+    "date": "2026-10-05",
+    "id": 2568
+  },
+  {
+    "title": "Making a GTK application in Haskell, part 1",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+    "date": "2026-10-05",
+    "id": 2569
+  },
+  {
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/Niko1221/Strata",
+    "date": "2026-10-05",
+    "id": 2570
   }
 ]
