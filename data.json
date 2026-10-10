@@ -18268,5 +18268,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
     "date": "2026-10-09",
     "id": 2610
+  },
+  {
+    "title": "`123456' password used in Danish CPR data breach",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "date": "2026-10-10",
+    "id": 2611
+  },
+  {
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/rociiu/talorys",
+    "date": "2026-10-10",
+    "id": 2612
+  },
+  {
+    "title": "Apple/macOS silently removed from official Unix registry",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.opengroup.org//openbrand/register/",
+    "date": "2026-10-10",
+    "id": 2613
+  },
+  {
+    "title": "REA Reverse – Engineer Anything",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://rea.tools/",
+    "date": "2026-10-10",
+    "id": 2614
+  },
+  {
+    "title": "C for Rust Programmers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+    "date": "2026-10-10",
+    "id": 2615
+  },
+  {
+    "title": "Cloudflare acquires Deno",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://deno.com/blog/cloudflare",
+    "date": "2026-10-10",
+    "id": 2616
+  },
+  {
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+    "date": "2026-10-10",
+    "id": 2617
+  },
+  {
+    "title": "Triple-A Minesweeper",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://minesweeper.mikelacher.com/",
+    "date": "2026-10-10",
+    "id": 2618
+  },
+  {
+    "title": "Lobbying Is Corruption",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://carette.xyz/posts/lobbying_and_corruption/",
+    "date": "2026-10-10",
+    "id": 2619
+  },
+  {
+    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "date": "2026-10-10",
+    "id": 2620
   }
 ]
