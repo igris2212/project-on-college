@@ -18338,5 +18338,75 @@
     "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
     "date": "2026-10-10",
     "id": 2620
+  },
+  {
+    "title": "I paid people to try and follow my README",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "date": "2026-10-11",
+    "id": 2621
+  },
+  {
+    "title": "Don't Put Tilde In Your Path",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+    "date": "2026-10-11",
+    "id": 2622
+  },
+  {
+    "title": "LineageOS 24.0",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://lineageos.org/Changelog-32/",
+    "date": "2026-10-11",
+    "id": 2623
+  },
+  {
+    "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "date": "2026-10-11",
+    "id": 2624
+  },
+  {
+    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://verdagon.dev/blog/valen-group-borrowing",
+    "date": "2026-10-11",
+    "id": 2625
+  },
+  {
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nitter.net",
+    "date": "2026-10-11",
+    "id": 2626
+  },
+  {
+    "title": "How HN: Go-dev-auth zero-dependency authentication library for Go",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://github.com/go-dev-auth/go-dev-auth",
+    "date": "2026-10-11",
+    "id": 2627
+  },
+  {
+    "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://copilot.travel/tolls/europe-2026",
+    "date": "2026-10-11",
+    "id": 2628
+  },
+  {
+    "title": "Build your own decision model",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://nishtahir.com/build-your-own-decision-model/",
+    "date": "2026-10-11",
+    "id": 2629
+  },
+  {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "category": "Новости IT",
+    "content": "Популярное обсуждение на Hacker News.\n\nСсылка на источник: https://jobs.ashbyhq.com/weave-os",
+    "date": "2026-10-11",
+    "id": 2630
   }
 ]
